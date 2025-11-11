@@ -1,0 +1,1534 @@
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+Mata Kuliah
+Sistem Temu Kembali
+Informasi (STKI)
+
+Otorisasi/Pengesahan
+
+Kode
+A11.54823
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: TEKNIK INFORMATIKA – PROGRAM SARJANA
+
+RENCANA PEMBELAJARAN SEMESTER (RPS)
+Rumpun Mata Kuliah
+SKS
+Semester
+Sistem Cerdas
+T=3
+P=
+5
+
+Tanggal Penyusunan
+10 Mei 2025
+
+Dosen Pengembang RPS
+
+Koordinator RMK
+
+Ketua Program Studi
+
+ttd
+
+ttd
+
+ttd
+
+Junta Zeniarja, M.Kom
+Hanny Haryanto, S.Kom, M.T.
+Dr. Edy Mulyanto, S.Si, M.Kom
+CPL Prodi yang dibebankan pada MK
+CPL10
+Mampu merancang, mengimplementasi dan mengevaluasi solusi berbasis sistem cerdas sesuai dengan kebutuhan pengguna
+dan perkembangan ilmu pengetahuan.
+Capaian Pembelajaran Mata Kuliah
+CPMK10.1
+Mampu merancang solusi berbasis sistem cerdas sesuai dengan kebutuhan pengguna dan perkembangan ilmu pengetahuan .
+
+Capaian Pembelajaran
+(CP)
+
+Kemampuan akhir setiap tahapan belajar (Sub –CPMK)
+Sub-CPMK10.1.1
+Mampu menjelaskan konsep-konsep Sistem Temu Kembali Informasi dan perkembangannya.
+Sub-CPMK10.1.2
+Mampu menjelaskan Document Preprocessing dan tahapannya.
+Sub-CPMK10.1.3
+Mampu menjelaskan Pemodelan di Sistem Temu Kembali Informasi: Boolean Retrieval Model dan Vector Space Model.
+Sub-CPMK10.1.4 Mampu menjelaskan konsep Term Weighting, Search Engine dan Evaluasi Model pada Sistem Temu Kembali Informasi.
+Sub-CPMK10.1.5 Mampu menjelaskan konsep Klasifikasi Dokumen Teks dengan algoritma Naïve Bayes dan Klasifikasi Dokumen Teks
+dengan algoritma K-Nearest Neighbor (K-NN).
+Sub-CPMK10.1.6 Mampu menjelaskan konsep Klastering Dokumen Teks dengan algoritma K-Means.
+Sub-CPMK10.1.7 Mampu menjelaskan konsep Peringkasan Dokumen Teks, dan Feature Selection pada Sistem Temu Kembali Informasi.
+Sub-CPMK10.1.8 Mampu menjelaskan tentang Opinion Mining (Sentiment Analysis) dan contoh penerapannya.
+Hubungan CPL Prodi terhadap Sub-CPMK
+CPL10 (%)
+Bobot Penilaian (%)
+Jumlah Minggu
+Sub-CPMK10.1.1
+5
+5
+1
+Sub-CPMK10.1.2
+10
+10
+1
+Sub-CPMK10.1.3
+15
+15
+2
+
+Deskripsi Singkat
+Mata Kuliah
+
+Materi Pembelajaran/
+Pokok Bahasan
+
+Pustaka
+
+Media Pembelajaran
+Tim Teaching
+Mata Kuliah Syarat
+
+Sub-CPMK10.1.4
+15
+15
+1
+Sub-CPMK10.1.5
+20
+20
+4
+Sub-CPMK10.1.6
+5
+5
+1
+Sub-CPMK10.1.7
+15
+15
+2
+Sub-CPMK10.1.8
+15
+15
+2
+Jumlah
+100
+100
+14
+Mata kuliah ini membahas konsep, teori, dan aplikasi Sistem Temu Kembali Informasi (Information Retrieval/IR) yang meliputi pemodelan IR,
+preprocessing dokumen, algoritma pencarian, pembobotan istilah, evaluasi performa, hingga klasifikasi dan klastering dokumen, serta penerapan
+text mining modern seperti sentiment analysis dan web mining. Mahasiswa akan dibekali pemahaman teoretis, kemampuan analitis, dan keterampilan
+praktis menggunakan perangkat lunak Python/Rapidminer. Pembelajaran dirancang berbasis outcome-based education (OBE) dengan penekanan
+pada capaian kompetensi, studi kasus, tugas terstruktur, serta project mandiri dan kelompok.
+1. Pengenalan Sistem Temu Kembali Informasi (Sub-CPMK10.1.1).
+2. Document Preprocessing (Sub-CPMK10.1.2).
+3. Model STKI dengan Boolean Model (Sub-CPMK10.1.3).
+4. Model STKI dengan Vector Space Model (Sub-CPMK10.1.3).
+5. Term Weighting (Sub-CPMK10.1.4).
+6. Search Engine Concept (Sub-CPMK10.1.4).
+7. Evaluasi Model STKI (Sub-CPMK10.1.4).
+8. Klasifikasi Dokumen dengan Naïve Bayes (Sub-CPMK10.1.5).
+9. Klasifikasi Dokumen dengan K-NN (Sub-CPMK10.1.5).
+10. Klastering Dokumen dengan K-Means (Sub-CPMK10.1.6).
+11. Peringkasan Dokumen Teks (Sub-CPMK10.1.7).
+12. Feature Selection (Sub-CPMK10.1.7).
+13. Opinion Mining (Sentiment Analysis) dan contoh penerapannya (Sub-CPMK10.1.8).
+Utama :
+R1 : Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge: Cambridge University Press.
+R2 : He, X. (2025) Information Retrieval: Advanced Topics and Techniques. ACM Books.
+R3 : Dash, D., Chatterjee, S. & Varma, V. (2024) Mining Biomedical Text, Images and Visual Features for Information Retrieval. 1st
+edn. Elsevier.
+Pendukung :
+R2 : Büttcher, S., Clarke, C. L. A., & Cormack, G. V. (2010). Information retrieval: Implementing and evaluating search engines.
+Cambridge, Mass: MIT Press.
+R3 : Croft, W. B., Metzler, D., & Strohman, T. (2010). Search engines: Information retrieval in practice. Boston: Addison-Wesley.
+Perangkat Lunak :
+Perangkat Keras :
+Python dan Rapidminer.
+Komputer (PC/laptop)
+Junta Zeniarja, M.Kom
+Ardytha Luthfirarta, M.Kom
+Abu Salam, M.Kom
+Penambangan Data
+
+Mgg
+ke
+(1)
+1
+
+2
+
+Kemampuan akhir
+tiap tahapan
+belajar (Sub CP
+MK)
+(2)
+Sub-CPMK10.1.1 :
+Mampu menjelaskan
+konsep-konsep Sistem
+Temu Kembali Informasi
+dan perkembangannya.
+
+Sub-CPMK10.1.2 :
+Mampu menjelaskan
+Document Preprocessing
+dan tahapannya
+
+Penilaian
+Indikator
+
+Metode Pembelajaran
+[Estimasi Waktu]
+
+Kriteria &
+Bentuk Penilaian
+
+(3)
+
+(4)
+
+- Mahasiswa mendapatkan
+penjelasan mengenai materi
+yang akan dipelajari selama satu
+semester
+- Mahasiswa mendapatkan
+penjelasan tentang referensi
+yang digunakan
+- Mahasiswa mendapatkan
+penjelasan tentang aturan
+perkuliahan
+- Mahasiswa mendapat
+penjelasan tentang istilah-istilah
+dan sistem yang dipakai dalam
+Sistem Temu Kembali
+Informasi
+- Mahasiswa dapat menjelaskan
+tentang konsep document
+preprocessing dan tahapannya.
+- Mahasiswa dapat
+mengimplementasikan dalam
+penerapannya di studi kasus.
+
+Kriteria :
+Ketepatan dalam
+menjelaskan konsep,
+penggunaan serta
+perkembangan Sistem
+Temu Kembali
+Informasi.
+
+●
+●
+
+Bentuk penilaian :
+Ketepatan proses
+pengerjaan penugasan
+
+Kriteria :
+- Ketepatan dalam
+menjelaskan konsep
+prapemrosesan
+dokumen dan
+tahapannya.
+
+Sub-CPMK10.1.3:
+Mampu menjelaskan
+Pemodelan di Sistem
+Temu Kembali Informasi:
+Boolean Retrieval Model
+dan Vector Space Model.
+
+- Mahasiswa dapat menjelaskan
+Boolean Retrieval Model,
+Incidence Matrix, Inverted
+Index dan studi kasusnya
+
+- Mahasiswa mampu
+menjelaskan Boolean Retrieval
+Model, Incidence Matrix,
+Inverted Index dan studi
+kasusnya
+
+Kriteria :
+Ketepatan dalam
+menjelaskan konsep
+Boolean Retrieval
+Model, Vector Space
+Model dan studi
+kasusnya
+Bentuk penilaian :
+Ketepatan dalam
+menjelaskan konsep
+Boolean Retrieval dan
+Vector Space Model
+
+●
+●
+
+Daring (6)
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-1:
+Perumusan
+konsep Sistem
+Temu Kembali
+Informasi
+
+[BT+BM:
+(1+1)x(3x50’)]
+●
+●
+
+Bentuk penilaian :
+Ketepatan proses
+pengerjaan penugasan
+tertulis
+
+3-4
+
+Luring (5)
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-1: Perumusan
+konsep Sistem Temu
+Kembali Informasi
+[BT+BM:
+(1+1)x(3x50’)]
+
+●
+●
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-2: Menerapkan
+konsep Document
+Preprocessing.
+[BT+BM:
+(1+1)x(3x50’)]
+
+Kuliah & Diskusi
+[TM:2x(3x50’)]
+Tugas-3: Pembuatan
+model STKI dengan
+Boolean Retrieval dan
+Vector Space Model
+[BT+BM:
+2x(1+1)x(3x50’)]
+
+●
+●
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-2:
+Menerapkan
+konsep
+Document
+Preprocessing
+
+[BT+BM:
+(1+1)x(3x50’)]
+● Kuliah & Diskusi
+[TM:2x(3x50’)]
+● Tugas-3:
+Pembuatan
+Model STKI
+dengan Boolean
+Retrieval dan
+Vector Space
+Model
+[BT+BM:
+2x(1+1)x(3x50’)]
+
+Materi pembelajaran
+(Pustaka)
+
+Bobot
+Penilaian
+
+(7)
+PERKENALAN DAN
+KONTRAK KULIAH
+- Peraturan kuliah
+- Prosedur penilaian
+- Overview materi
+- Referensi yang digunakan
+Pertemuan 1 (R1,R2) :
+a.
+Database Retrieval vs
+Sistem Temu Kembali
+Informasi
+b.
+Pengertian Sistem Temu
+Kembali Informasi
+c.
+Perkembangan Sistem
+Temu Kembali Informasi
+Pertemuan 2 (R1,R2):
+a.
+Latar Belakang
+b.
+Definisi
+c.
+Langkah – Langkah
+Document Preprocessing
+d.
+Studi Kasus
+
+Pertemuan 3 (R1, R2):
+a.
+Boolean Retrieval Model
+b.
+Permasalahan STKI
+c.
+Incidence Matrix
+d.
+Inverted Index
+e.
+Studi Kasus
+Pertemuan 4 (R1, R2):
+a.
+Konsep Vector Space
+Model
+b.
+Similarity
+c.
+Angular Similarity
+d.
+Document Ranking
+e.
+Studi Kasus
+
+(8)
+PBL
+TGS
+UTS
+UAS
+
+: 2. 5%
+: 2.5%
+::-
+
+Sub-total :
+5%
+
+PBL
+TGS
+UTS
+UAS
+
+: 5%
+: 5%
+::-
+
+Sub-total :
+10%
+
+PBL
+TGS
+UTS
+UAS
+
+: 7. 5%
+: 7.5%
+::-
+
+Sub-total :
+15%
+
+Mgg
+ke
+(1)
+5
+
+6-7
+
+Kemampuan akhir
+tiap tahapan
+belajar (Sub CP
+MK)
+(2)
+Sub-CPMK10.1.4 :
+Mampu menjelaskan
+konsep Term Weighting,
+Search Engine dan
+Evaluasi Model pada
+Sistem Temu Kembali
+Informasi
+
+Sub-CPMK10.1.5 :
+Mampu menjelaskan
+konsep Klasifikasi
+Dokumen Teks dengan
+algoritma Naïve Bayes.
+
+Penilaian
+Indikator
+(3)
+
+(4)
+
+- Mahasiswa dapat menjelaskan
+konsep tentang Term Weighting
+dalam STKI.
+- Mahasiswa dapat menjelaskan
+tentang konsep Search Engine.
+- Mahasiswa dapat menjelaskan
+konsep Evaluasi Model pada
+STKI.
+
+Kriteria :
+Ketepatan dalam
+menjelaskan konsep
+Term Weighting,
+Search Engine dan
+Evaluasi Model STKI.
+
+- Mahasiswa dapat menjelaskan
+konsep Klasifikasi Dokumen
+Teks dengan algoritma Naïve
+Bayes
+
+Sub-CPMK10.1.5 :
+Mampu menjelaskan
+konsep Klasifikasi
+Dokumen Teks dengan
+algoritma K-Nearest
+Neighbor (K-NN).
+
+- Mahasiswa dapat menjelaskan
+konsep Klasifikasi Dokumen
+Teks dengan algoritma KNearest Neighbor (K-NN).
+
+●
+●
+
+Bentuk penilaian :
+Ketepatan menerapkan
+konsep Term
+Weighting, Search
+Engine dan Evaluasi
+Model STKI.
+
+Kriteria :
+Ketepatan dalam
+menjelaskan konsep
+Klasifikasi Dokumen
+Teks dengan algoritma
+Naïve Bayes
+Bentuk penilaian :
+Ketepatan proses
+pengerjaan penugasan
+tertulis
+
+8
+9-10
+
+Metode Pembelajaran
+[Estimasi Waktu]
+
+Kriteria &
+Bentuk Penilaian
+
+●
+●
+
+Luring (5)
+Kuliah & Diskusi
+●
+[TM:2x(3x50’)]
+Tugas-4: Pembuatan
+●
+model dengan konsep
+Term Weighting,
+Search Engine dan
+Evaluasi Model STKI.
+[BT+BM:
+2x(1+1)x(3x50’)]
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-5: Studi kasus
+klasifikasi dokumen
+teks dengan algoritma
+Naïve Bayes
+[BT+BM:
+(1+1)x(3x50’)]
+
+[BT+BM:
+2x(1+1)x(3x50’)]
+● Kuliah & Diskusi
+[TM:3x50’]
+● Tugas-5: Studi
+kasus klasifikasi
+dokumen teks
+dengan algoritma
+Naïve Bayes.
+
+Bobot
+Penilaian
+
+(7)
+
+(8)
+
+Pertemuan 5 (R1, R2) :
+a.
+Konsep Term Weighting
+b.
+Jenis – jenis Term
+Weighting.
+c.
+Konsep Search Engine
+d.
+Cara Kerja Search Engine
+e.
+Contoh Search Engine
+f.
+Konsep Evaluasi Model
+
+PBL
+TGS
+UTS
+UAS
+
+Pertemuan 6-7 (R1, R2)
+a.
+Klasifikasi Teks
+b.
+Naïve Bayes Classifier
+(NBC)
+c.
+Studi Kasus
+
+PBL
+TGS
+UTS
+UAS
+
+: 7. 5%
+: 7.5%
+::-
+
+Sub-total :
+15%
+
+: 5%
+: 5%
+::-
+
+Sub-total :
+10%
+
+[BT+BM:
+(1+1)x(3x50’)]
+
+UJIAN TENGAH SEMESTER
+● Kuliah & Diskusi
+●
+[TM:3x50’]
+● Tugas-5: Studi kasus
+●
+klasifikasi dokumen
+teks dengan algoritma
+K-Nearest Neighbor
+Bentuk penilaian :
+(K-NN).
+Ketepatan proses
+[BT+BM:
+pengerjaan penugasan
+tertulis
+(1+1)x(3x50’)]
+Kriteria :
+Ketepatan dalam
+menjelaskan konsep
+Klasifikasi Dokumen
+Teks dengan algoritma
+K-Nearest Neighbor
+(K-NN).
+
+Daring (6)
+Kuliah & Diskusi
+[TM:2x(3x50’)]
+Tugas-4:
+Pembuatan model
+dengan konsep
+Term Weighting,
+Search Engine
+dan Evaluasi
+Model STKI.
+
+Materi pembelajaran
+(Pustaka)
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-6: Studi
+kasus klasifikasi
+dokumen teks
+dengan algoritma
+K-Nearest
+Neighbor (KNN).
+
+[BT+BM:
+(1+1)x(3x50’)]
+
+Pertemuan 9-10 (R1, R2)
+a.
+Karakteristik K-NN
+b.
+Penerapan K-NN
+c.
+Kelebihan & Kekurangan
+K-NN
+d.
+Tahapan Klasifikasi K-NN
+e.
+Studi Kasus
+
+PBL
+TGS
+UTS
+UAS
+
+: 5%
+: 5%
+::-
+
+Sub-total :
+10%
+
+Mgg
+ke
+(1)
+11
+
+Kemampuan akhir
+tiap tahapan
+belajar (Sub CP
+MK)
+(2)
+Sub-CPMK10.1.6 :
+Mampu menjelaskan
+konsep Klastering
+Dokumen Teks dengan
+algoritma K-Means.
+
+Penilaian
+Indikator
+(3)
+
+(4)
+
+- Mahasiswa dapat menjelaskan
+konsep Klastering Dokumen
+Teks dengan algoritma KMeans.
+
+Kriteria :
+Ketepatan dalam
+menjelaskan konsep
+Klastering Dokumen
+Teks dengan algoritma
+K-Means.
+Bentuk penilaian :
+Ketepatan proses
+pengerjaan penugasan
+tertulis
+
+12-13
+
+Sub-CPMK10.1.7 :
+Mampu menjelaskan
+konsep Peringkasan
+Dokumen Teks, dan
+Feature Selection pada
+Sistem Temu Kembali
+Informasi.
+
+- Mahasiswa dapat menjelaskan
+konsep Peringkasan Dokumen
+Teks, dan Feature Selection
+pada Sistem Temu Kembali
+Informasi
+
+Kriteria :
+Ketepatan dalam
+menjelaskan konsep
+Peringkasan Dokumen
+Teks, dan Feature
+Selection pada Sistem
+Temu Kembali
+Informasi.
+Bentuk penilaian :
+Ketepatan proses
+pengerjaan penugasan
+tertulis
+
+14-15
+
+Sub-CPMK10.1.8 :
+Mampu menjelaskan
+tentang Opinion Mining
+(Sentiment Analysis) dan
+contoh penerapannya.
+
+- Mahasiswa dapat menjelaskan
+tentang Opinion Mining
+(Sentiment Analysis) dan
+contoh penerapannya.
+
+Metode Pembelajaran
+[Estimasi Waktu]
+
+Kriteria &
+Bentuk Penilaian
+●
+●
+
+●
+
+●
+●
+
+●
+
+●
+
+Bentuk penilaian :
+Ketepatan proses
+pengerjaan penugasan
+tertulis
+
+●
+●
+
+●
+
+Kuliah & Diskusi
+●
+[TM:3x50’]
+Tugas-5: Studi kasus
+●
+Peringkasan Dokumen
+Teks dan Feature
+Selection.
+[BT+BM:
+(1+1)x(3x50’)]
+●
+
+●
+
+Kriteria :
+Ketepatan dalam
+menjelaskan tentang
+Opinion Mining
+(Sentiment Analysis)
+dan contoh
+penerapannya.
+
+Luring (5)
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-5: Studi kasus
+Klastering Dokumen
+Teks dengan
+algoritma K-Means.
+[BT+BM:
+(1+1)x(3x50’)]
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-5: Studi kasus
+tentang Opinion
+Mining (Sentiment
+Analysis) dan contoh
+penerapannya.
+[BT+BM:
+(1+1)x(3x50’)]
+
+●
+●
+
+Daring (6)
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-7: Studi
+kasus Klastering
+Dokumen Teks
+dengan algoritma
+K-Means.
+[BT+BM:
+(1+1)x(3x50’)]
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-8: Studi
+kasus
+Peringkasan
+Dokumen Teks
+dan Feature
+Selection.
+[BT+BM:
+(1+1)x(3x50’)]
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-9: Studi
+kasus tentang
+Opinion Mining
+(Sentiment
+Analysis) dan
+contoh
+penerapannya.
+
+[BT+BM:
+(1+1)x(3x50’)]
+16
+
+UJIAN AKHIR SEMESTER
+
+Materi pembelajaran
+(Pustaka)
+
+Bobot
+Penilaian
+
+(7)
+
+(8)
+
+Pertemuan 11 (R1, R2)
+a.
+Clustering Text
+b.
+Algoritma Clustering
+c.
+Partitional Algorithm
+d.
+K-Means Clustering
+e.
+Studi Kasus
+
+PBL
+TGS
+UTS
+UAS
+
+Pertemuan 12-13 (R1, R3)
+a.
+Peringkasan Dokumen
+Teks
+b.
+Feature Based
+c.
+Latent Semantic Analysis
+d.
+Metode Seleksi Fitur
+e.
+Beberapa Teknik Seleksi
+Fitur.
+
+PBL
+TGS
+UTS
+UAS
+
+Pertemuan 14-15 (R1, R3)
+a.
+Konsep Opinion Mining
+b.
+Beberapa contoh Opinion
+Mining
+
+PBL
+TGS
+UTS
+UAS
+
+: 2.5%
+: 2.5%
+::-
+
+Sub-total :
+5%
+
+: 7.5%
+: 7.5%
+::-
+
+Sub-total :
+15%
+
+: 7.5%
+: 7.5%
+::-
+
+Sub-total :
+15%
+
+Catatan :
+[1]. TM : tatap Muka
+[2]. [TM:3x50’] : Kuliah tatap muka 1 kali (minggu) x 3 sks x 50 menit=150 menit
+[3]. [BT+BM:(1+1)x(3x50’)] : Belajar terstruktur 1 kali (minggu) dan belajar mandiri 1 kali (minggu) x 3 sks x 50 menit = 300 menit ( 5 jam)
+[4]. RPS : Rencana Pembelajaran Semester, RMK : Rumpun Mata Kuliah, Prodi : Program Studi
+
+RENCANA TUGAS MAHASISWA 1
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+SARJANA TEKNIK INFORMATIKA
+
+RENCANA TUGAS MAHASISWA
+MATA KULIAH
+: Sistem Temu Kembali Informasi (STKI)
+KODE
+: A11.54823
+SKS
+: 3
+SEMESTER
+: 5
+DOSEN
+: Junta Zeniarja, M.Kom
+BENTUK TUGAS : Tugas Mandiri
+JUDUL TUGAS
+: Tugas-1: Perumusan konsep Sistem Temu Kembali Informasi
+SUB CAPAIAN PEMBELAJARAN MATA
+KULIAH
+Menjelaskan konsep, penggunaan, serta perkembangan Sistem Temu Kembali Informasi (STKI).
+DESKRIPSI TUGAS
+Buatlah ringkasan dan esai singkat mengenai konsep dasar, perbedaan dengan database retrieval, dan
+perkembangan STKI. Sertakan pula istilah-istilah kunci dan tujuan utama STKI.
+METODE PENGERJAAN TUGAS
+1. Mencari dan mempelajari sumber utama (R1, R2).
+2. Menyusun ringkasan dan esai maksimal 2 halaman A4.
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : konsep dasar Sistem Temu Kembali Informasi
+b. Bentuk Luaran : essai dan ringkasan
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator : Dapat menjelaskan konsep STKI secara tepat dan ringkas
+Kriteria : Ketepatan dan kelengkapan konsep, sistematika tulisan
+Bobot penilaian : kualitas literatur (50%), kualitas essai (50%)
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+: Maksimal 3 hari setelah tugas diberikan
+LAIN-LAIN
+Pengumpulan dilakukan secara unggah file PDF ke LMS Kulino
+DAFTAR
+PUSTAKA
+•
+•
+
+•
+
+Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge:
+Cambridge University Press.
+He, X. (2025) Information Retrieval: Advanced Topics and Techniques. ACM Books.
+Dash, D., Chatterjee, S. & Varma, V. (2024) Mining Biomedical Text, Images and Visual Features for
+Information Retrieval. 1st edn. Elsevier.
+
+RENCANA TUGAS MAHASISWA 2
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+SARJANA TEKNIK INFORMATIKA
+
+RENCANA TUGAS MAHASISWA
+MATA KULIAH
+: Sistem Temu Kembali Informasi (STKI)
+KODE
+: A11.54823
+SKS
+: 3
+SEMESTER
+: 5
+DOSEN
+: Junta Zeniarja, M.Kom
+BENTUK TUGAS : Tugas Mandiri
+JUDUL TUGAS
+: Tugas-2: Menerapkan konsep Document Preprocessing
+SUB CAPAIAN PEMBELAJARAN MATA
+KULIAH
+Menjelaskan dan menerapkan tahapan document preprocessing pada dokumen teks.
+DESKRIPSI TUGAS
+Lakukan preprocessing (tokenisasi, stopword removal, stemming, dsb.) pada sebuah dokumen teks
+pendek dan sajikan hasil setiap tahap.
+METODE PENGERJAAN TUGAS
+• Pilih dokumen mini/studi kasus (1 paragraf).
+• Terapkan seluruh tahapan preprocessing dan tuliskan proses serta hasilnya.
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : Hasil tiap tahap preprocessing
+b. Bentuk Luaran : Laporan (maksimal 3 halaman A4)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator :
+- Mahasiswa dapat menjelaskan ketepatan tiap tahap preprocessing
+Kriteria :
+- Kesesuaian output preprocessing
+Bobot penilaian : tahapan preprocessing (50%), dokumentasi (50%)
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+: Maksimal 3 hari setelah tugas diberikan
+LAIN-LAIN
+Dikerjakan individu, laporan dikumpulkan via LMS Kulino
+DAFTAR
+PUSTAKA
+•
+•
+
+•
+
+Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge:
+Cambridge University Press.
+He, X. (2025) Information Retrieval: Advanced Topics and Techniques. ACM Books.
+Dash, D., Chatterjee, S. & Varma, V. (2024) Mining Biomedical Text, Images and Visual Features for
+Information Retrieval. 1st edn. Elsevier.
+
+RENCANA TUGAS MAHASISWA 3
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+SARJANA TEKNIK INFORMATIKA
+
+RENCANA TUGAS MAHASISWA
+MATA KULIAH
+: Sistem Temu Kembali Informasi (STKI)
+KODE
+: A11.54823
+SKS
+: 3
+SEMESTER
+: 5
+DOSEN
+: Junta Zeniarja, M.Kom
+BENTUK TUGAS : Tugas Mandiri
+JUDUL TUGAS
+: Tugas-3: Pembuatan Model STKI dengan Boolean Retrieval Model
+SUB CAPAIAN PEMBELAJARAN MATA
+KULIAH
+- Menjelaskan Boolean Retrieval, Incidence Matrix, Inverted Index dan studi kasusnya.
+DESKRIPSI TUGAS
+- Buatlah kasus sederhana, lalu bangun incidence matrix, inverted index, dan contoh query Boolean
+untuk data tersebut.
+METODE PENGERJAAN TUGAS
+- Rumuskan dataset mini (misal 5 dokumen sederhana).
+- Buat incidence matrix dan inverted index.
+- Simulasikan 2 query Boolean.
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : Dataset mini, matrix, index, query
+b. Bentuk Luaran : Worksheet + laporan (2-3 halaman)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator : Mahasiswa dapat membangun Boolean Model
+Kriteria : Ketepatan incidence matrix, inverted index, dan hasil query
+Bobot penilaian : dataset & matrix (40%), query & penjelasan (60%)
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+: Maksimal 3 hari setelah tugas diberikan
+LAIN-LAIN
+Tugas bisa dipresentasikan di kelas
+DAFTAR
+PUSTAKA
+•
+•
+•
+
+Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge:
+Cambridge University Press.
+He, X. (2025) Information Retrieval: Advanced Topics and Techniques. ACM Books.
+Dash, D., Chatterjee, S. & Varma, V. (2024) Mining Biomedical Text, Images and Visual Features for
+Information Retrieval. 1st edn. Elsevier.
+
+RENCANA TUGAS MAHASISWA 4
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+SARJANA TEKNIK INFORMATIKA
+
+RENCANA TUGAS MAHASISWA
+MATA KULIAH
+: Sistem Temu Kembali Informasi (STKI)
+KODE
+: A11.54823
+SKS
+: 3
+SEMESTER
+: 5
+DOSEN
+: Junta Zeniarja, M.Kom
+BENTUK TUGAS : Tugas Mandiri
+JUDUL TUGAS
+: Tugas-4: Penerapan Vector Space Model dan Perhitungan Similarity
+SUB CAPAIAN PEMBELAJARAN MATA
+KULIAH
+Menjelaskan Vector Space Model, menghitung similarity dan ranking dokumen.
+DESKRIPSI TUGAS
+Gunakan dataset mini, lakukan representasi vektor untuk dokumen dan query, lalu hitung similarity
+(cosine) dan ranking hasilnya.
+METODE PENGERJAAN TUGAS
+• Siapkan 3–5 dokumen pendek, buat representasi vektor
+• Lakukan perhitungan similarity terhadap satu query
+• Susun ranking dokumen berdasarkan similarity
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : Representasi vektor, similarity
+b. Bentuk Luaran : Worksheet/laporan (2-3 halaman)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator : Ketepatan perhitungan vektor dan similarity
+Kriteria : Representasi, hasil similarity, dan interpretasi ranking
+Bobot penilaian : vektor (40%), similarity & interpretasi (60%)
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+: Maksimal 1 minggu setelah tugas diberikan
+LAIN-LAIN
+Tugas bisa dipresentasikan di kelas
+DAFTAR
+PUSTAKA
+•
+•
+•
+
+Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge:
+Cambridge University Press.
+He, X. (2025) Information Retrieval: Advanced Topics and Techniques. ACM Books.
+Dash, D., Chatterjee, S. & Varma, V. (2024) Mining Biomedical Text, Images and Visual Features for
+Information Retrieval. 1st edn. Elsevier.
+
+RENCANA TUGAS MAHASISWA 5
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+SARJANA TEKNIK INFORMATIKA
+
+RENCANA TUGAS MAHASISWA
+MATA KULIAH
+: Sistem Temu Kembali Informasi (STKI)
+KODE
+: A11.54823
+SKS
+: 3
+SEMESTER
+: 5
+DOSEN
+: Junta Zeniarja, M.Kom
+BENTUK TUGAS : Tugas Mandiri
+Tugas-5: Penerapan Term Weighting, Search Engine, dan Evaluasi Model
+JUDUL TUGAS
+:
+STKI
+SUB CAPAIAN PEMBELAJARAN MATA
+KULIAH
+Menjelaskan dan mengimplementasikan term weighting, search engine, serta evaluasi model IR.
+DESKRIPSI TUGAS
+Hitung bobot istilah (TF, DF, TF-IDF) untuk dataset mini. Simulasikan arsitektur search engine
+sederhana dan lakukan evaluasi model (precision, recall).
+METODE PENGERJAAN TUGAS
+1. Gunakan data mini
+2. Hitung bobot term dengan beberapa metode
+3. Jelaskan arsitektur search engine sederhana
+4. Hitung nilai evaluasi untuk satu skenario query
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : Bobot term, arsitektur, evaluasi
+b. Bentuk Luaran : Worksheet + analisis (2-3 halaman)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator : Ketepatan bobot term, arsitektur, dan evaluasi
+Kriteria : Ketepatan perhitungan dan penjelasan
+Bobot penilaian : Term weighting (30%), search engine (30%), evaluasi (40%)
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+: Maksimal 3 hari setelah tugas diberikan
+LAIN-LAIN
+Laporan dikumpulkan via LMS Kulino
+DAFTAR
+PUSTAKA
+•
+•
+•
+
+Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge:
+Cambridge University Press.
+He, X. (2025) Information Retrieval: Advanced Topics and Techniques. ACM Books.
+Dash, D., Chatterjee, S. & Varma, V. (2024) Mining Biomedical Text, Images and Visual Features for
+Information Retrieval. 1st edn. Elsevier.
+
+RENCANA TUGAS MAHASISWA 6
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+SARJANA TEKNIK INFORMATIKA
+
+RENCANA TUGAS MAHASISWA
+MATA KULIAH
+: Sistem Temu Kembali Informasi (STKI)
+KODE
+: A11.54823
+SKS
+: 3
+SEMESTER
+: 5
+DOSEN
+: Junta Zeniarja, M.Kom
+BENTUK TUGAS : Tugas Mandiri
+JUDUL TUGAS
+: Tugas-6: Klasifikasi Dokumen Teks dengan Naïve Bayes
+SUB CAPAIAN PEMBELAJARAN MATA
+KULIAH
+- Menjelaskan dan menerapkan klasifikasi dokumen teks dengan Naïve Bayes
+DESKRIPSI TUGAS
+- Buatlah dataset mini (misal 10 dokumen pendek, 2 kelas), lakukan perhitungan/proses klasifikasi
+manual/otomatis dengan Naïve Bayes, sajikan proses, dan hasil klasifikasi.
+METODE PENGERJAAN TUGAS
+1. Dataset sederhana
+2. Hitung probabilitas tiap kelas, lakukan klasifikasi
+3. Sajikan hasil
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : Dataset, proses klasifikasi
+b. Bentuk Luaran : Worksheet + laporan (2-3 halaman)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator : Ketepatan klasifikasi
+Kriteria : Perhitungan benar, hasil dan analisis tepat
+Bobot penilaian : dataset (30%), proses klasifikasi (40%), hasil & analisis (30%)
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+: Maksimal 3 hari setelah tugas diberikan
+LAIN-LAIN
+Dapat dikerjakan manual atau menggunakan script sederhana
+DAFTAR
+PUSTAKA
+•
+•
+•
+
+Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge:
+Cambridge University Press.
+He, X. (2025) Information Retrieval: Advanced Topics and Techniques. ACM Books.
+Dash, D., Chatterjee, S. & Varma, V. (2024) Mining Biomedical Text, Images and Visual Features for
+Information Retrieval. 1st edn. Elsevier.
+
+RENCANA TUGAS MAHASISWA 7
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+SARJANA TEKNIK INFORMATIKA
+
+RENCANA TUGAS MAHASISWA
+MATA KULIAH
+: Sistem Temu Kembali Informasi (STKI)
+KODE
+: A11.54823
+SKS
+: 3
+SEMESTER
+: 5
+DOSEN
+: Junta Zeniarja, M.Kom
+BENTUK TUGAS : Tugas Mandiri
+JUDUL TUGAS
+: Tugas-7: Klasifikasi Dokumen Teks dengan K-Nearest Neighbor
+SUB CAPAIAN PEMBELAJARAN MATA
+KULIAH
+- Menjelaskan dan menerapkan klasifikasi dokumen teks dengan K-NN.
+DESKRIPSI TUGAS
+- Gunakan dataset mini, hitung jarak similarity, tentukan kelas suatu dokumen uji menggunakan K-NN,
+dan jelaskan tahapan serta hasil.
+METODE PENGERJAAN TUGAS
+1. Pilih dataset
+2. Hitung similarity/jarak
+3. Tentukan kelas dengan K terdekat
+4. Sajikan hasil
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : Dataset, proses klasifikasi
+b. Bentuk Luaran : Worksheet + laporan (2-3 halaman)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator : Ketepatan penerapan K-NN
+Kriteria : Hasil dan penjelasan proses benar
+Bobot penilaian : dataset (30%), proses klasifikasi (40%), hasil & analisis (30%)
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+: Maksimal 3 hari setelah tugas diberikan
+LAIN-LAIN
+Boleh gunakan Python/RapidMiner/manual
+DAFTAR
+PUSTAKA
+•
+•
+•
+
+Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge:
+Cambridge University Press.
+He, X. (2025) Information Retrieval: Advanced Topics and Techniques. ACM Books.
+Dash, D., Chatterjee, S. & Varma, V. (2024) Mining Biomedical Text, Images and Visual Features for
+Information Retrieval. 1st edn. Elsevier.
+
+RENCANA TUGAS MAHASISWA 8
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+SARJANA TEKNIK INFORMATIKA
+
+RENCANA TUGAS MAHASISWA
+MATA KULIAH
+: Sistem Temu Kembali Informasi (STKI)
+KODE
+: A11.54823
+SKS
+: 3
+SEMESTER
+: 5
+DOSEN
+: Junta Zeniarja, M.Kom
+BENTUK TUGAS : Tugas Mandiri
+JUDUL TUGAS
+: Tugas-8: Klastering Dokumen Teks dengan K-Means
+SUB CAPAIAN PEMBELAJARAN MATA
+KULIAH
+- Menjelaskan dan menerapkan klastering dokumen teks dengan K-Means
+DESKRIPSI TUGAS
+- Lakukan klastering pada dataset mini (misal 8–10 dokumen pendek, 2-3 topik), sajikan tahapan
+proses K-Means dan hasil klasterisasi.
+METODE PENGERJAAN TUGAS
+1. Siapkan dataset
+2. Terapkan tahapan K-Means (inisialisasi, assignment, update centroid, iterasi)
+3. Sajikan hasil klaster
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : Dataset, hasil klaster
+b. Bentuk Luaran : Worksheet + laporan (2-3 halaman)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator : Ketepatan tahapan K-Means
+Kriteria : Proses dan hasil klastering tepat
+Bobot penilaian : dataset (30%), proses klastering (40%), hasil & analisis (30%)
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+: Maksimal 1 minggu setelah tugas diberikan
+LAIN-LAIN
+Dapat dikerjakan manual/otomatis
+DAFTAR
+PUSTAKA
+•
+•
+•
+
+Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge:
+Cambridge University Press.
+He, X. (2025) Information Retrieval: Advanced Topics and Techniques. ACM Books.
+Dash, D., Chatterjee, S. & Varma, V. (2024) Mining Biomedical Text, Images and Visual Features for
+Information Retrieval. 1st edn. Elsevier.
+
+RENCANA TUGAS MAHASISWA 9
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+SARJANA TEKNIK INFORMATIKA
+
+RENCANA TUGAS MAHASISWA
+MATA KULIAH
+: Sistem Temu Kembali Informasi (STKI)
+KODE
+: A11.54823
+SKS
+: 3
+SEMESTER
+: 5
+DOSEN
+: Junta Zeniarja, M.Kom
+BENTUK TUGAS : Tugas Mandiri
+JUDUL TUGAS
+: Tugas-9: Studi Kasus Peringkasan, Feature Selection, dan Opinion Mining
+SUB CAPAIAN PEMBELAJARAN MATA
+KULIAH
+- Menjelaskan dan menerapkan peringkasan dokumen, feature selection, dan opinion mining (sentiment
+analysis)
+DESKRIPSI TUGAS
+- Pilih sebuah dokumen panjang/artikel, lakukan peringkasan otomatis/manual, lakukan feature
+selection sederhana, dan analisis sentimen sederhana pada bagian teks yang relevan.
+METODE PENGERJAAN TUGAS
+1. Ringkas artikel (abstractive/extractive)
+2. Terapkan teknik feature selection sederhana
+3. Lakukan analisis sentimen pada bagian tertentu
+4. Sajikan hasil, proses, dan penjelasan
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : Ringkasan, fitur terpilih, analisis sentimen
+b. Bentuk Luaran : Laporan (maksimal 4 halaman)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator : Ketepatan dan kualitas tiap tahapan
+Kriteria : Hasil ringkasan, pemilihan fitur, dan analisis sentimen
+Bobot penilaian : ringkasan (35%), feature selection (30%), opinion mining (35%)
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+: Maksimal 3 hari setelah tugas diberikan
+LAIN-LAIN
+Boleh menggunakan bantuan tools atau manual
+DAFTAR
+PUSTAKA
+•
+•
+•
+
+Manning, C., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge:
+Cambridge University Press.
+He, X. (2025) Information Retrieval: Advanced Topics and Techniques. ACM Books.
+Dash, D., Chatterjee, S. & Varma, V. (2024) Mining Biomedical Text, Images and Visual Features for
+Information Retrieval. 1st edn. Elsevier.
+
+

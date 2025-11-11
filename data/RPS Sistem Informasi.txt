@@ -1,0 +1,828 @@
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+Mata Kuliah
+Sistem Informasi
+
+Otorisasi
+
+Capaian Pembelajaran (CP)
+
+Deskripsi Singkat
+Mata Kuliah
+Materi Pembelajaran/
+Pokok Bahasan
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: SARJANA TEKNIK INFORMATIKA
+
+RENCANA PEMBELAJARAN SEMESTER (RPS)
+Kode
+Rumpun Mata Kuliah
+SKS
+Semester
+A11.54506
+Wajib Program Studi
+3
+5
+Dosen Pengembang RPS
+Koordinator RMK
+
+ttd
+
+Tanggal Penyusunan
+1 September 2018
+Ketua Program Studi
+
+ttd
+
+Dr. H. Himawan, M.Kom
+Ajib Susanto, M.Kom
+Dr. Muljono, S.Si, M.Kom
+Capaian Pembelajaran Program Studi
+S8
+Menunjukkan sikap bertanggungjawab atas pekerjaan di bidang keahliannya secara mandiri
+P1
+Menguasai konsep teoritis bidang pengetahuan Ilmu Komputer /Informatika secara umum dan konsep teoritis bagian khusus
+dalam bidang pengetahuan tersebut secara mendalam, serta mampu memformulasikan penyelesaian masalah prosedural.
+KU1
+Mampu menerapkan pemikiran logis, kritis, sistematis, dan inovatif dalam konteks pengembangan atau implementasi ilmu
+pengetahuan dan teknologi yang memperhatikan dan menerapkan nilai humaniora yang sesuai dengan bidang keahliannya.
+KU2
+Mampu menunjukkan kinerja mandiri, bermutu, dan terukur.
+KK2
+Menguasai metodologi pengembangan sistem, yaitu perencanaan, desain, penerapan, pengujian dan pemelihaan sistem..
+KK11
+Menerapkan konsep-konsep yang berkaitan dengan manajemen informasi, termasuk menyusun pemodelan dan abstraksi data
+serta membangun aplikasi perangkat lunak untuk pengorganisasian data dan penjaminan keamanan akses data.
+Capaian Pembelajaran Mata Kuliah
+M1
+Mahasiswa dapat menjelaskan konsep dan ruang lingkup sistem informasi
+M2
+Mahasiswa dapat menjelaskan peran data dalam sistem informasi
+M3
+Mahasiswa dapat menjelaskan peran sistem informasi dalam mencapai tujuan perusahaan/organisasi
+M4
+Mahasiswa dapat menjelaskan tahapan-tahapan dalam mengembangkan sistem informasi
+Mata kuliah sistem informasi mempelajari dasar-dasar sistem informasi yang meliputi : Data dan informasi dalam sitem informasi bisnis, Sistem
+informasi dalam organisasi, Hardware dan Software, Organizing Data and Information, Data Warehouse, Telecommunications and Networks,
+The Internet, Intranets, and Extranets, Transaction Processing, Enterprise Resource Planning Systems, Management Information Systems, Decision
+Support Systems, Systems Development,
+1. Menjalankan bisnis di era digital; Mengelola dan meningkatkan proses bisnis, kekuatan daya saing, trend teknologi perusahaan
+2. Tata kelola data dan Arsitektur TI mendukung kinerja jangka lama; Manajemen informasi, Arsitektur Perusahaan dan tatakelola data,
+Sistem Informasi, Data centre Cloud computing dan virtualisasi
+
+3.
+
+Manajemen data, Analitik Big Data, dan Manajemen Record; Sistem Manajemen Basis Data, Data warehoiuse dan analitik Big Data,
+Data dan Text Mining, Business Intelligence, Manajemen Record Elektronik
+4. Network untuk efisiensi operasi dan Keberlanjutan; Jaringan Data-I\alamat IP, Jaringan nir kabel dan Infrastruktur Mobile, teknologi
+kolaborasi dan komunikasi, Keberlanjutan dan isu etikal
+5. Keamanan Cyber dan Manajemen Resiko; Bentuk dan masa depan ancaman cyber, Manajemen Resiko Cyber, Kemanan Mobile App
+dan Cloud, Pertahanan dan Perlawanan terhadap Fraud, Kendali internal dan Keselarasan
+6. Memikat pembeli dengan teknologi pencarian, semantic dan rekomendasi; Penggunaan teknologi pencarian untuk kesuksesan bisnis,
+Penyusun pencarian dan SEO, Strategi Pay per click dan pencarian berbayar
+7. Jejaring social, perkaitan dan Matrik sosial; Web 2.0 web social, Layanan jejaring social dan Komunitas menyatukan konsumen dengan
+blog dan microblog, Kombinasi matrik social dan perangkat monitoring, Knowledge sharing di tempat kerja sosial
+8. Retail, E-commerce, dan Teknologi Mobile commerce; Teknologi Retailing, E-commerce B2C, Ecomeerce B2B dan E-procurement,
+Mobile commerce, Layanan Finansial dan Transaksi Mobile
+9. Efektivitas dan Efisisensi Fungsi Bisnis; memecahkan tantangan bisnis di semua tingkatkan manajemen, Sistem Pemasaran dan
+Penjualan, Sistem Akuntansi Keuangan dan Regulasi, Sistem sumber daya manusia keselarasan dan etika
+10. Teknologi strategis dan Sistem Perusahaan; Enterprise System, Platform Social Enterprise, Sistem ERP, Sistem SCM, Sistem CRM
+11. Visualisasi Data dan Sistem Informasi Geografis; Visualisasi Data dan Pembelajaran, Integrasi data perusahaan, Dashboard Digital, Data
+Geospatial dan GIS
+12. Strategi TI dan Balanced Scorecard; Strategi TI dan Proses Perencanaan Strategis, Penyelarasan TI dengan strategi bisnis, BSC, Sumber
+daya TI dan Strategi Cloud
+13. Manajemen Proyek dan SDLC; Konsep Manajemen Proyek, Perencanaan Proyek eksekusi dan budget, Monitoring Proyek kendali dan
+penutupan, SDLC
+14. Resiko Etikal dan Tanggung jawab inovasi TI; Paradoks Privasi privasi dan Hak sipil, Tuntunan tanggung jawab, ketergantungan
+teknologi dan penggabungan kegiatan focus manajemen, Trend teknologi yang mengubah bisnis.
+Utama :
+1.
+Turban, Volonino, Wood, Information Technology for Management 10th edition, 2017
+Pustaka
+
+Media Pembelajaran
+Tim Teaching
+Mata Kuliah Syarat
+
+Pendukung :
+2.
+Ralph Stair & George Reynold,2003, Fundamental of information System, 2th ed
+3.
+McLeod, Raymond and Schell, George P. 2007. Management Information Systems. 10th edition. Pearson Education Publisher.
+Perangkat Lunak :
+Perangkat Keras :
+Proyektor
+Tim Pengampu mata kuliah Sistem Informasi
+-
+
+Mgg
+ke
+(1)
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Sub CP MK
+(sebagai kemampuan
+akhir yang diharapkan)
+(2)
+Mahasiswa mampu
+menjelaskan bagaimana
+bisnis dijalankan dengan
+mengikuti trend
+perubahan teknologi
+digital
+Mahasiswa mampu
+menjelaskan bagaimana
+Tata kelola data dan
+Arsitektur TI mendukung
+kinerja jangka lama
+
+Indikator
+(3)
+Dapat menjelaskan pengertian
+era digital, inovasi bisnis yang
+berbasis digital
+
+(4)
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Presentasi
+
+Dapat menjelaskan dukungan
+tata kelola Data dan arsitektur TI
+terhadap kinerja jangka panjang
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Presentasi
+
+
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Makalah
+
+
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Makalah
+
+
+
+Mahasiswa mampu
+menjelaskan tentang
+Manajemen data,
+Analitik Big Data, dan
+Manajemen Record
+
+Dapat menjelaskan hubungan
+antara Manajemen data, Analisis
+Big Data dan Manajemen Record
+
+Mahasiswa mampu
+menjelaskan tentang
+Network untuk efisiensi
+operasi dan
+Keberlanjutan
+
+Dapat menjelaskan peran
+jaringan dalam mengefisiensikan
+operasional dan keberlanjutan
+perusahaan
+
+Mahasiswa mampu
+menjelaskan tentang
+Keamanan Cyber dan
+Manajemen Resiko
+
+Dapat menjelaskan peran
+cybersecurity dalam manajemen
+resiko
+
+Mahasiswa dapat
+menjelaskan bagaimana
+upaya memenangkan,
+
+Kriteria & Bentuk
+Penilaian
+
+Dapat menjelaskan bagaimana
+memikat pembeli dengan
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Makalah
+
+Kriteria :
+Ketepatan dan
+penguasaan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-1: Membuat
+presentasi isi bab 1
+[BT+BM: (1+1)x(3x50’)]
+
+Materi pembelajaran
+(6)
+a. Bisnis digital
+b. Manajemen proses bisnis dan
+peningkatannya
+c. Kekuatan daya saing
+d. Trend Teknologi perusahaan
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-2: Membahas studi
+kasus bab 2
+[BT+BM: (1+1)x(3x50’)]
+
+a.
+b.
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-3: Membahas studi
+kasus bab 3
+[BT+BM: (1+1)x(3x50’)]
+
+a.
+b.
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-4: Membahas studi
+kasus bab 4
+[BT+BM: (1+1)x(3x50’)]
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-5: Membahas studi
+kasus bab 5
+[BT+BM: (1+1)x(3x50’)]
+
+Kuliah & Diskusi
+[TM:3x50’]
+
+c.
+d.
+
+c.
+d.
+e.
+a.
+b.
+c.
+d.
+a.
+b.
+c.
+d.
+e.
+a.
+
+Manajemen Informasi
+Arsitektur Enterprise dan
+tatakelola data
+Dasar sistem informasi
+Pusat data, Komputasi awan,
+Virtualisasi
+Sistem Manajemen Basisdata
+Data Warehouse dan Analisis
+Big Data
+Data dan Text mining
+Business Intelligence
+Manajemen Record elektronik
+Jaringan data, pengalamatan IP
+dan API
+Jaringan nirkabel dan
+Infrastruktur mobile
+Kolaborasi dan Teknologi
+Komunikasi
+Keberlanjutan dan isu etikal
+Bentuk dan masa depan
+gangguan cyber
+Manajemen resiko cyber
+Mobile, APP dan Keamanan
+Cloud
+Mengatasi Fraud
+Kesesuaian dan kendali internal
+Menggunakan teknologi
+pencarian untuk keberhasilan
+bisnis
+
+Bobot
+Penilaian
+(7)
+
+Mgg
+ke
+(1)
+
+7
+
+Sub CP MK
+(sebagai kemampuan
+akhir yang diharapkan)
+(2)
+menarik dan
+mempertahankan
+konsumen dengan
+teknologi
+Mahasiswa mampu
+menjelaskan tentang
+Jejaring social, perkaitan
+dan Matrik sosial
+
+Indikator
+(3)
+teknologi pencarian, semantik
+dan rekomendasi
+
+Kriteria & Bentuk
+Penilaian
+(4)
+Bentuk non test :
+Presentasi
+
+
+
+
+Dapat menjelaskan social
+networking
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Presentasi
+
+
+
+
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+Tugas-6: Merangkum
+intisari bab 6
+[BT+BM: (1+1)x(3x50’)]
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-7: Merangkum
+intisari bab 7
+[BT+BM: (1+1)x(3x50’)]
+
+Materi pembelajaran
+
+b.
+c.
+d.
+e.
+a.
+b.
+c.
+d.
+e.
+
+8
+9
+
+10
+
+Mahasiswa mampu
+menjelaskan tentang
+Retail, E-commerce, dan
+Teknologi Mobile
+commerce
+
+Dapat menjelaskan perbedaan
+antara teknologi mobile
+commerce, e-commerce dan
+retail
+
+Mahasiswa dapat
+menjelaskan
+optimalisasi kinerja
+dengan dengan analisis
+dan sistem perusahaan
+
+Dapat menjelaskan perlunya
+efisiensi dan efektifitas bisnis
+
+UJIAN TENGAH SEMESTER
+Kriteria :
+ Kuliah & Diskusi
+Ketepatan dan
+[TM:3x50’]
+penguasaan
+ Tugas-8: Merangkum
+Bentuk non test :
+intisari bab 8
+Presentasi
+[BT+BM: (1+1)x(3x50’)]
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Presentasi
+
+
+
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-9: Membahas studi
+kasus bab 9
+[BT+BM: (1+1)x(3x50’)]
+
+a.
+b.
+c.
+d.
+e.
+a.
+
+b.
+
+c.
+d.
+e.
+
+(6)
+Pencarian organik dan SEO
+Strategi Pay-per-Click dan Paidsearch
+Teknologi semantik
+Mesin rekomendasi
+Web 2.0 – Web sosial
+Layanan social networking dan
+social metrics
+Memikat konsumen dengan
+blog dan microblog
+Kombinasi Social Metrics
+dengan Perankat monitoring
+Pertukaran pengetahuan dalam
+ruang kerja sosial
+Teknologi retailing
+E-commerce B2C
+E-commerce B2B dan Lelang (eprocurement)
+Mobile commerce
+Transaksi mobile dan Layanan
+finansial
+Tantangan dalam masalah
+bisnis di semua level
+manajemen
+Sistem Manajemen
+Manufaktur, Produksi dan
+Transportasi
+Sistem pemasaran dan
+Penjualan
+Sistem Pengaturan Akuntansi,
+Keuangan
+Sistem Sumberdaya manusia
+dan Etika
+
+Bobot
+Penilaian
+(7)
+
+Mgg
+ke
+(1)
+11
+
+12
+
+13
+
+14
+
+Sub CP MK
+(sebagai kemampuan
+akhir yang diharapkan)
+(2)
+Mahasiswa mampu
+menjelaskan tentang
+Visualisasi Data dan
+Sistem Informasi
+Geografis
+Mahasiswa mampu
+menjelaskan tentang
+Visualisasi Data dan
+Sistem Informasi
+Geografis
+Mahasiswa dapat
+mengelola hubungan
+bisnis, proyek dan kode
+etik
+
+Mahasiswa mampu
+menjelaskan tentang
+Manajemen Proyek dan
+SDLC
+
+Indikator
+(3)
+Dapat menyelaraskan strategi
+teknologi dan sistem enterprise
+
+Dapat menjelaskan pengertian
+SIG
+
+Dapat merumuskan Strategi TI
+menggunakan BSC
+
+Dapat membuat Perencanaan
+proyek dalam rangka SDLC
+
+Kriteria & Bentuk
+Penilaian
+(4)
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Presentasi
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Presentasi
+
+
+
+
+
+
+
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Presentasi
+
+
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Presentasi
+
+
+
+
+
+
+
+
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-10: Membahas
+studi kasus bab 10
+[BT+BM: (1+1)x(3x50’)]
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-10: Membahas
+studi kasus bab 10
+[BT+BM: (1+1)x(3x50’)]
+
+a.
+b.
+c.
+d.
+e.
+a.
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-11: membuat
+strategi TI dengan BSC
+[BT+BM: (1+1)x(3x50’)]
+
+b.
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-12: membuat
+perencanaan proyek
+[BT+BM: (1+1)x(3x50’)]
+
+Materi pembelajaran
+
+b.
+c.
+d.
+a.
+
+c.
+d.
+
+a.
+b.
+c.
+d.
+
+15
+
+16
+
+Mahasiswa mampu
+menjelaskan tentang
+Resiko Etikal dan
+Tanggung jawab inovasi
+TI
+
+Dapat menjelaskan resiko etis
+dari inovasi TI
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Presentasi
+
+
+
+
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-13: membuat
+paparan kasus
+[BT+BM: (1+1)x(3x50’)]
+
+UJIAN AKHIR SEMESTER
+
+a.
+b.
+c.
+
+(6)
+Sistem perusahaan (ES)
+Platform Sosial Perusahaan
+Sistem ERP
+Sistem SCM
+Sistem CRM
+Visualisasi data dan
+pembelajaran
+Menggabungkan data
+perusahaan
+Dashboard digital
+Data geospasial dan SIG
+Strategi TI dan Proses
+perencanaan Strategis
+Penyelarasan TI dengan strategi
+bisnis
+Balanced Scorecard
+Sumber daya TI dan Strategi
+Cloud
+Konsep manajemen proyek
+Perencanaan proyek, eksekusi
+dan budget
+Pengawasan proyek, Kontrol
+dan penutupan
+Siklus Hidup Pengembangan
+Sistem
+Paradoks Privasi, Privasi dan
+hak sipil
+Perilaku yang bertanggung
+jawab
+Ketergantungan teknologi dan
+trend manajemen fokus
+
+Bobot
+Penilaian
+(7)
+
+Catatan :
+[1]. TM : tatap Muka
+[2]. [TM:2x50’] : Kuliah tatap muka 1 kali (minggu) x 2 sks x 50 menit=100 menit
+[3]. [BT+BM:(1+1)x(2x50’)] : Belajar terstruktur 1 kali (minggu) dan belajar mandiri 1 kali (minggu) x 2 sks x 50 menit = 200 menit ( 3 jam 20 menit)
+[4]. Penulisan daftar pustaka disarankan menggunakan salah satu standar/style penulisan pustaka internasional, dalam contoh ini menggunakan style APA
+[5]. RPS : Rencana Pembelajaran Semester, RMK : Rumpun Mata Kuliah, Prodi : Program Studi
+
+RENCANA TUGAS MAHASISWA 1
+
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+TEKNIK INFORMATIKA – S1
+
+RENCANA TUGAS MAHASISWA
+MATA KULIAH
+: Sistem Informasi
+KODE
+:
+SKS
+: 3
+SEMESTER
+: 5
+DOSEN
+: BENTUK TUGAS
+: Tugas Mandiri
+JUDUL TUGAS
+: Tugas-1: Membuat Presentasi Inovasi bisnis berbasis digital
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mahasiswa mampu menjelaskan konsep era digital dan inovasi bisnis di era digital
+DESKRIPSI TUGAS
+Tuliskan pengertian-pengertian pokok dalam bab tersebut
+METODE PENGERJAAN TUGAS
+1. Kerjakan
+2. Membuat ringkasan dari literature yang dipilih
+3. Merumuskan topik utama dalam pembahasan laporan
+4. Menyusun laporan makalah (pastikan menghindari plagiasi, dilarang copy paste)
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : memahami aneka bentuk bisnis berbasis digital
+b. Bentuk Luaran
+Makalah dan presentasi tentang perubahan bentuk, model dan proses bisnis berbasis digital dari
+berbagai perusahaan baik perusahaan yang lama yang berubah atau munculnya perusahaan baru
+yang menjadi pesaing atau bahkan mematikan bisnis yang sama dengan cara konvensional. Kedua
+file dikumpulkan melalui email dengan nama dokumen SISFO_(kelompok)_NIM
+INDIKATOR, KRITERIA DAN BOBOT P_ENILAIAN
+a. Format Penulisan [bobot 20%]
+1. Penulisan Makalah dengan sistematika dan format yang telah ditetapkan, kemutakhiran
+literature (5 tahun terakhir), kejelasan dan ketajaman meringkas, konsistensi dan kerapian dalam
+sajian tulisan.
+2. Kesesuaian sistematika nama file yang dikirim melalui email
+b. Isi Makalah [50%]
+1. Ketepatan sistematika pelaporan makalah sesuai dengan standar panduan penulisan laporan;
+2. Ketepatan tata tulis makalah sesuai dengan ejaan bahasa Indonesia yang benar dan baik dalam
+penyajian tabel, gambar;
+3. Kerapian sajian makalah yang dikumpulkan;
+4. Penulisan rujukan dan penulisan sitasi yang baik
+c. Ketepatan Waktu Pengumpulan [30%]
+Kesesuaian waktu pengiriman tugas dengan jadwal yang sudah disepakati
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+:
+1 minggu
+LAIN-LAIN
+Kirimkan ke
+DAFTAR PUSTAKA
+1. Turban, Volonino, Wood, Information Technology for Management 10th edition, 2017
+2. Ralph Stair & George Reynold,2003, Fundamental of information System, 2th ed
+
+3. McLeod, Raymond and Schell, George P. 2007. Management Information Systems. 10th edition.
+Pearson Education Publisher
+
+

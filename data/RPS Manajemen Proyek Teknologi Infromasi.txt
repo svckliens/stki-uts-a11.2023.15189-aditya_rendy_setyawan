@@ -1,0 +1,1249 @@
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+Mata Kuliah
+Manajemen Proyek
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: SARJANA TEKNIK INFORMATIKA
+
+RENCANA PEMBELAJARAN SEMESTER (RPS)
+Kode
+Rumpun Mata Kuliah
+SKS
+Semester
+A11.54703
+Wajib Program Studi
+3
+5
+Dosen Pengembang RPS
+Koordinator RMK
+
+Tanggal Penyusunan
+1 September 2018
+Ketua Program Studi
+
+Otorisasi
+Novita Kurnia Ningrum, S.Kom, M.Kom
+S8
+P1
+
+Capaian Pembelajaran (CP)
+
+Ajib Susanto, M.Kom
+
+Heru Agus Santoso, Ph.D
+
+Menunjukkan sikap bertanggungjawab atas pekerjaan di bidang keahliannya secara mandiri
+Menguasai konsep teoritis bidang pengetahuan Manajemen Proyek secara umum dan konsep teoritis bagian khusus dalam
+bidang pengetahuan tersebut secara mendalam, serta mampu memformulasikan penyelesaian masalah prosedural.
+KU1
+Mampu menerapkan pemikiran logis, kritis, sistematis, dan inovatif dalam konteks pengembangan atau implementasi ilmu
+pengetahuan dan teknologi yang memperhatikan dan menerapkan nilai humaniora yang sesuai dengan bidang keahliannya.
+KU2
+Mampu menunjukkan kinerja mandiri, bermutu, dan terukur.
+KK7
+Mampu memahami konsep pengelolaan proyek perangkat lunak
+KK27
+Menerapkan konsep-konsep yang berkaitan dengan pengelolaan proyek perangkat lunak
+Capaian Pembelajaran Mata Kuliah
+M1
+Mahasiswa mampu menjelaskan definisi proyek, manajemen proyek ,manfaat manajemen proyek,segi tiga project constraint,
+definisi manajer proyek,skill yang dibutuhkan oleh manajer proyek,tugas tanggung jawab sebagai manajer proyek, pendekatan
+yang digunakan dalam mengelola aktivitas sebuah proyek (metodologi manajemen proyek).
+M2
+Mahasiswa mampu menjelaskan siklus hidup proyek , organisasi proyek,tim proyek.
+M3
+Mahasiswa mampu menjelaskan Kerangka kerja / frame work manajemen Proyek yang digambarkan dalam bentuk diagram
+(project management knowledge area)
+M4
+Mahasiswa mampu menjelaskan Scope manajemen Proyek atau ruang lingkup (scope planning, scope definition, Work
+Breakdown Structure / WBS, scope verification, scope control)
+M5
+Mahasiswa mampu menjelaskan dan mempraktekan/mengerjakan time management dalam studi kasus yang meliputi :
+penyusunan jadwal proyek, monitoring jadwal proyek, pengontrolan perubahan jadwal proyek, menggunakan alat perencanaan
+(WBS, Matrik tanggung jawab,Gantt chart, Jaringan Kerja /network ), integrasi WBS dengan struktur organisasi.
+M6
+Mahasiswa mampu menjelaskan dan menghitung Cost Management Project yang meliputi : cost estimating, cost budgeting, cost
+control.
+
+M7
+
+Deskripsi Singkat
+Mata Kuliah
+
+Materi Pembelajaran/
+Pokok Bahasan
+
+Pustaka
+
+Media Pembelajaran
+
+Mahasiswa mampu menjelaskan Quality Management Project untuk memastikan kesesuaian kinerja dan hasil proyek dengan
+standar mutu yang ditetapkan meliputi : ( quality planning, quality assurance, quality control )
+M8
+Mahasiswa mampu menjelaskan Human Resources Management project yang meliputi proses yang diperlukan untuk memenuhi
+kebutuhan ,mengorganisir dan me-manage project tim antara lain yaitu :human resource planning, menunjuk/mendapatkan
+personil tim yang dibutuhkan, meningkatkan kompetensi dan kerjasama tim untuk meningkatkan kinerja proyek
+M9
+Mahasiswa mampu menjelaskan communication management project yang bertujuan agar supaya aliran informasi proyek
+berjalan efektif dan efisien.
+M10
+Mahasiswa mampu menjelaskan risk management project yang meliputi proses yang diperlukan untuk meminimalkan dampak
+negatif resiko terhadap keberhasilan proyek
+M11
+Mahasiswa mampu menjelaskan procurement management project yang meliputi proses yang diperlukan untuk memenuhi
+pengadaan barang dan/atau jasa yang disediakan oleh vendor/kontraktor sesuai jadwal.
+M12
+Mahasiswa mampu menjelaskan stakeholder service management project yang meliputi : bagaimana bersikap/berperilaku untuk
+memberikan pelayanan terbaik kepada pemangku kepentingan.
+M13
+Mahasiswa mampu menjelaskan project integration management yang meliputi : proses dan aktivitas yang diperlukan untuk
+mengidentifikasikan, mendefinisikan ,mengkombinasikan, menyatukan dan mengkoordinasikan semua proses dan aktivitas
+manajemen proyek dalam suatu proses yang bersinergi dan berkesinambungan.
+M14
+Mahasiswa mampu menjelaskan, mengisikan perangkat lunak yang digunakan untuk mengelola proyek dengan microsoft project.
+Mata Kuliah Manajemen proyek membahas secara berurutan dari konsep dasar manajemen proyek, siklus hidup proyek, project management
+knowledge area ,scope management project, time management project, cost management project, quality management project, human recourses
+management project, communication management project, risk management project, procurement management project, stakeholder service
+management project, penggunaan perangkat lunak untuk latihan
+1. Pengenalan Manajemen Proyek Teknologi Informasi
+2. Siklus Hidup Proyek Teknologi Informasi
+3. Manajemen Rung Lingkup Proyek Teknologi Informasi
+4. Managemen Waktu Pengerjaan Proyek Teknologi Informasi
+5. Manajemen Pembiayaan Proyek Teknologi Informasi
+6. Manajemen Kualitas Proyek Teknologi Informasi
+7. Manajemen Sumber Daya Manusia
+8. Manajemen Komunikasi Proyek
+9. Manajemen Resiko
+10. Integration management project
+Utama :
+1. Information Technology Project Management 2nd edition, kathy Schwalbe, Ph.D,PMP, Agsburg College, Thomson Learning 2002
+2. Senn, James A (2004). Information Technology. Principles, Practices, Opportunities (Third Edition). Prentice Hall
+Pendukung :
+1. Budi Santosa , 2009, Manajemen Proyek,penerbit Graha Ilmu Yogyakarta.
+2. Clifford F.Gray Erik W.Larson,2007, Manajemen Proyek Proses ManajerialPenerbit Andi : Yogyakarta
+Perangkat Lunak :
+Perangkat Keras :
+
+Tim Teaching
+Mata Kuliah Syarat
+
+SmartDraw
+Tim Pengampu Mata Kuliah Manajemen Proyek
+Rekayasa Perangkat Lunak
+
+Proyektor
+
+Mgg
+ke
+(1)
+1
+
+Sub CP MK
+(sebagai kemampuan akhir
+yang diharapkan)
+(2)
+Mahasiswa mampu
+menjelaskan Konsep
+Manajemen Proyek
+
+Indikator
+
+Kriteria & Bentuk Penilaian
+
+(3)
+Ketepatan menjelaskan
+tujuan, kegunaan atau
+manfaat dari manajemen
+proyek
+
+(4)
+Kriteria : Ketepatan dan
+penguasaan materi
+Bentuk non test :
+a. Tulisan makalah
+b. Tanya jawab
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+ Kuliah & Diskusi
+[TM:3x50’]
+
+2
+
+Mahasiswa mampu
+menjelaskan siklus hidup
+proyek , organisasi
+proyek,tim proyek
+
+Kemampuan dalam
+menjelaskan siklus hidup
+proyek, organisasi
+proyek,tim proyek.
+
+Kriteria :
+Ketepatan dan penguasaan
+Bentuk non test :
+a. Tulisan makalah
+b. Tanya jawab
+
+
+
+Kuliah & Diskusi
+[TM:3x50’)
+
+3
+
+Mahasiswa mampu
+menjelaskan Scope
+Manajemen Proyek atau
+ruang lingkup
+
+Kemampuan dalam
+menjelaskan dan
+memberikan contoh tentang
+WBS.
+
+Kriteria :
+Dapat membuat contoh WBS
+secara nyata dan benar
+Bentuk penilaian:
+Tugas individu dan kelompok
+
+
+
+Kuliah & Diskusi
+[TM:3x50’]
+
+4
+
+Mahasiswa mampu
+menjelaskan dan
+mempraktikan/
+mengerjakan time
+management dalam studi
+kasus
+
+Kemampuan dalam
+menjelaskan dan
+memberikan contoh tentang
+WBS.
+
+Kriteria :
+Dapat membuat contoh
+WBS,Matrik tanggung jawab,
+Gantt Chart, Network dan
+mengintegrasikan WBS dengan
+struktur organisasi,matrik
+tanggung jawab secara nyata
+dan benar
+Bentuk penilaian:
+
+
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas1: membuat
+WBS, Matrik
+tanggung
+jawab,Gantt Chart,
+Network, dan
+mengintegrasikan
+WBS dengan
+
+
+
+Materi pembelajaran
+(6)
+Definisi proyek, manajemen
+proyek ,manfaat manajemen
+proyek, segi tiga project
+constraint , definisi manajer
+proyek, skill yang dibutuhkan
+oleh manajer proyek, tugas
+tanggung jawab sebagai
+manajer proyek,pendekatan
+yang digunakan dalam
+mengelola aktivitas sebuah
+proyek (metodologi
+manajemen proyek)
+a. Penjelasan siklus hidup
+proyek dan siklus hidup
+produk,
+b. Tahap-tahap proyek,
+c. RFP (request for proposal
+), Pokok isi Proposal
+Proyek, organisasi
+proyek, tim proyek.
+a. scope planning, scope
+definition,Work
+Breakdown Structure (
+WBS ),
+b. scope verification, scope
+control
+a. penyusunan jadwal
+proyek,monitoring jadwal
+proyek,
+b. pengontrolan perubahan
+jadwal proyek
+c. menggunakan alat
+perencanaan
+(WBS,Matrik tanggung
+jawab,Gantt chart)
+
+Bobot
+Penilaian
+(7)
+
+Mgg
+ke
+(1)
+
+5
+
+Sub CP MK
+(sebagai kemampuan akhir
+yang diharapkan)
+(2)
+
+Mahasiswa mampu
+menjelaskan dan
+mempraktikan/mengerjakan
+time management dalam
+studi kasus
+
+Indikator
+
+Kriteria & Bentuk Penilaian
+
+(3)
+
+(4)
+Tugas individu dan kelompok.
+
+Kemampuan dalam
+menggambar network dan
+menghitung soal dalam studi
+kasus dengan pendekatan
+PERT
+
+Kriteria :
+Dapat mengambar dan
+menghitung network dengan
+pendekatan PERT secara
+Bentuk penilaian:
+Tugas individu dan kelompok
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+struktur organisasi,
+matrik tanggung
+jawab [BT+BM:
+(1+1)x(3x50’)]
+ Kuliah & Diskusi
+[TM:3x50’]
+
+Materi pembelajaran
+(6)
+d. integrasi WBS dengan
+struktur organisasi,matrik
+tanggung jawab.
+Penjelasan tentang jaringan
+kerja /network planning)
+a. Simbol-simbol dalam
+network planning network
+diagram,
+b. simbol yang digunakan
+dalam networkdiagram
+(anak
+panah,lingkaran),hubungan
+antarsimbol dan kegiatan,
+c. langkah-langkah dalam
+pembentukan network
+planning .
+d. Metode
+networkplanningdengan
+Teknik Evaluasi dan Review
+Proyek ( PERT =Project
+Evaluation and Review
+Technique )yang
+memerlukan 3 (tiga)
+dugaan waktu yaitu :
+1.Waktu Optimis(a),
+2.Waktu paling mungkin
+(m), 3.Waktu pesimis(b),
+e. Crash program,
+f. Cara menghitung dengan
+rumus
+g. Perbedaan pokok dalam
+memperkirakan kurun
+waktu(D) kegiatan antara
+PERT dan CPM
+
+Bobot
+Penilaian
+(7)
+
+Mgg
+ke
+(1)
+6
+
+7
+
+8
+9
+
+10
+
+Sub CP MK
+(sebagai kemampuan akhir
+yang diharapkan)
+(2)
+Mahasiswa mampu
+menjelaskan dan
+mempraktikan/mengerjakan
+time management dalam
+studi kasus
+
+Indikator
+
+Kriteria & Bentuk Penilaian
+
+(3)
+Kemampuan dalam
+menggambar network dan
+menghitung soal dalam studi
+kasus dengan pendekatan
+CPM
+
+(4)
+Kriteria :
+Dapat mengambar dan
+menghitung network dengan
+pendekatan CPM, menentukan
+lintasan kritis secara Tugas
+Individu dan kelompok
+Bentuk penilaian:
+Tugas individu dan kelompok
+
+Mahasiswa mampu
+menjelaskan dan
+menghitung Cost
+Management Project
+
+Kemampuan dalam
+mengestimasi biaya proyek
+dan pengangaran/budget
+proyek dan menghitung soal
+dalam studi kasus
+
+Mahasiswa mampu
+menjelaskan dan
+menghitung Cost
+Management Project
+
+Kemampuan dalam
+menghitung analisa
+performansi dalam studi
+kasus
+
+Mahasiswa mampu
+menjelaskan dan
+
+Kemampuan dalam
+menghitung PP, ROI, NPV,
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+ Kuliah & Diskusi
+[TM:3x50’]
+ Tugas2:
+menggambar
+network planning
+dan menghitung
+soal dalam studi
+kasus dengan
+pendekatan CPM
+secara individu dan
+kelompok
+[BT+BM:
+(1+1)x(3x50’)]
+
+Kriteria :
+
+Dapat menghitung estimasibiaya
+proyek dan penganggaran suatu
+proyek secara Tugas Individu dan
+kelompok
+Bentuk penilaian:
+Tugas individu dan kelompok
+UJIAN TENGAH SEMESTER
+Kriteria :
+Dapat menghitung analisa
+performansi secara Tugas
+Individu dan kelompok
+
+Bentuk penilaian:
+Tugas individu dan kelompok
+
+Kuliah & Diskusi
+[TM:3x50’]
+
+
+
+Kuliah & Diskusi
+[TM:3x50’]
+
+Kriteria :
+
+Materi pembelajaran
+
+a.
+
+b.
+
+c.
+d.
+
+a.
+b.
+
+a.
+
+Kuliah & Diskusi
+[TM:2x(3x50’)]
+
+(6)
+Metode networkplanning
+dengan metode lintasan
+kritis ( CPM = Critical Path
+Method)
+Istilah yang digunakan
+dalam CPM yaitu : ES,EF,LS
+dan LF dan Total Float ( TF )
+,Free Float
+(FF),InferentFloat ( IF)
+Langkah -langkah
+pembuatan CPM
+Cara menentukan lintasan
+kritis
+Cost estimating (Top -down
+dan bottom-up)
+Cost budgeting
+(penganggaran)
+
+Cost Control (pengendalian
+Proyek )
+b. Langkah-langkah
+pengendalian
+c. Pengendalian Internaldan
+Eksternal
+d. Konsep Earned Value
+e. Analisa Performansi
+f. Perkiraan biaya untuk
+menyelesaikan proyek
+Kriteria financial yang
+digunakan dalam Pemilihan
+Proyek
+
+Bobot
+Penilaian
+(7)
+
+Mgg
+ke
+(1)
+
+Sub CP MK
+(sebagai kemampuan akhir
+yang diharapkan)
+(2)
+menghitung Cost
+Management Project
+
+Indikator
+(3)
+IRR, break even analysis
+dalam studi kasus
+
+Kriteria & Bentuk Penilaian
+(4)
+Dapat menghitung PP, ROI, NPV,
+IRR, Break even analysis dalam
+studi kasus
+Bentuk penilaian:
+Tugas individu dan kelompok
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+ Tugas 3:
+menghitung analisa
+performansi dengan
+menganalisa biaya
+dan jadwal,
+menghitung nilai:
+PP,ROI, NPV, IRR,
+Break even analysis
+dalam soal studi
+kasus secara
+kelompok
+[BT+BM:
+(1+1)x(3x50’)]
+ Kuliah & Diskusi
+[TM:3x50’]
+
+11
+
+Mahasiswa mampu
+menjelaskan Quality
+Management Project
+
+Kemampuan dalam
+menjelaskan :. Quality
+planning, .Quality assurance,
+.Quality control
+
+Kriteria :
+Ketepatan dalam menjelaskan
+Quality planning, quality
+assurance,Quality control dalam
+studi kasus untuk Tugas Individu
+dan kelompok
+Bentuk penilaian:
+Tugas individu dan kelompok
+
+12
+
+Mahasiswa mampu
+menjelaskan Human
+Resources Management
+project.
+
+Kemampuan dalam
+menjelaskan Human
+resourcesplanning,menyusun
+personal tim,membentuk
+tim proyek ,mengelola tim
+proyek. dalam studi kasus
+
+Kriteria :
+
+ Ketepatan dalam
+menjelaskan untuk Tugas
+
+Individu dan Human
+resourcesplanning,menyusun
+personal tim,membentuk
+tim proyek ,mengelola tim
+proyek. dalam studi kasus
+secara kelompok
+Bentuk penilaian:
+Tugas kelompok
+
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas 4: membahas
+dan menjelaskan
+Tugas Individu dan
+Human
+resourcesplanning,
+menyusun personal
+tim, membentuk
+tim proyek,
+mengelola tim
+proyek dalam studi
+
+Materi pembelajaran
+
+a.
+b.
+c.
+d.
+e.
+
+(6)
+Payback period (PP),
+Return on Investment (ROI
+),
+Net present Value ( NPV),
+Internal Rate of Return
+(IRR),
+Break even analysis.
+
+Pembahasan meliputi :
+1.Quality planning
+2.Quality assurance
+3.Quality control
+
+Pembahasan meliputi:
+a. Human resource planning,
+b. Menunjuk/mendapatkan
+personil tim yang dibutuhkan
+untuk melaksanakan proyek
+c. Membentuk tim proyek
+dengan meningkatkan
+kompetensi dan kerjasama
+tim untuk meningkatkan
+kinerja proyek
+d. Mengelola tim proyek
+dengan mengkoordinasikan
+dan memonitor kinerja
+
+Bobot
+Penilaian
+(7)
+
+Mgg
+ke
+(1)
+
+13
+
+Sub CP MK
+(sebagai kemampuan akhir
+yang diharapkan)
+(2)
+
+Mahasiswa mampu
+menjelaskan communication
+management project
+
+Indikator
+
+Kriteria & Bentuk Penilaian
+
+(3)
+
+(4)
+
+Kemampuan dalam
+menjelaskan.Communicatio
+,information distribution,
+performance Reporting
+planning, dalam studi kasus
+
+Kriteria :
+Ketepatan dalam menjelaskan
+untuk tugas secara kelompok
+Bentuk penilaian:
+Tugas kelompok
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+kasus secara
+kelompok
+[BT+BM:
+(1+1)x(3x50’)]
+ Kuliah & Diskusi
+[TM:3x50’]
+
+Materi pembelajaran
+(6)
+tim,memberikan umpan
+balik dan membantu
+memecahkan masalah
+a.
+
+b.
+c.
+
+14
+
+15
+
+Mahasiswa mampu
+menjelaskan risk
+management project
+
+Kemampuan dalam
+menjelaskan .masalah
+definisi Resiko,manajemen
+resiko,toleransi terhadap
+resiko,prose manajemen
+resiko dalam studi kasus
+
+Kriteria :
+Ketepatan dalam menjelaskan
+untuk tugas secara kelompok
+Bentuk penilaian:
+Tugas kelompok
+
+ Kuliah & Diskusi
+[TM:3x50’]
+
+Mahasiswa mampu
+menjelaskan project
+integration management
+
+ Kemampuan dalam
+menjelaskan .proyek
+yang terintegrasi
+
+Kriteria :
+Ketepatan dalam menjelaskan
+untuk tugas secara kelompok
+Bentuk penilaian:
+Tugas kelompok
+
+ Kuliah & Diskusi
+[TM:3x50’]
+
+a.
+b.
+c.
+
+Communication planning
+;yaitu menentukan
+perencanaan komunikasi
+proyek yang sesuai dengan
+kebutuhan dan harapan
+stakeholder
+Information distribution
+Performance Reporting
+
+Definisi Resiko dan
+Manajemen Resiko
+Toleransi terhadap Resiko
+Proses Manajemen
+Resiko
+
+Pembahasan meliputi :
+a. Membuat project
+definition sebagai
+gambaran awal
+Membuat project
+management plan
+b. Mengarahkan dan
+mengelola
+pelaksanaan proyek
+c. Memonitor dan
+mengontrol aktivitas
+proyek mulai dari
+
+Bobot
+Penilaian
+(7)
+
+Mgg
+ke
+(1)
+
+16
+
+Sub CP MK
+(sebagai kemampuan akhir
+yang diharapkan)
+(2)
+
+Indikator
+
+Kriteria & Bentuk Penilaian
+
+(3)
+
+(4)
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+
+Materi pembelajaran
+(6)
+initiation, planning,
+execution sampai
+dengan closing
+proyek.
+d. Mengintegrasikan
+pelaksanaan prosedur
+control perubahan
+Menyelesaikan dan
+menutup proyek
+secara formal.
+e. Praktek latihan mengisi
+formulir yang
+diperlukan suatu
+proyek dalam studi
+kasus
+
+Bobot
+Penilaian
+(7)
+
+UJIAN AKHIR SEMESTER
+
+Catatan :
+[1]. TM : tatap Muka
+[2]. [TM:2x50’] : Kuliah tatap muka 1 kali (minggu) x 3 sks x 50 menit=150 menit
+[3]. [BT+BM:(1+1)x(2x50’)] : Belajar terstruktur 1 kali (minggu) dan belajar mandiri 1 kali (minggu) x 3 sks x 50 menit = 300 menit ( 5 jam)
+[4]. Mahasiswa mampu merancang penelitian dalam bentuk proposal penelitian & mempresentasikanya. Menunjukan bahwa sub-CPMK ini mengandung kemampuan dalam
+ranah taksonomi kognitif level 2(kemampuan merancang), afektif level 2 (kemampuan merespon dalam diskusi), dan psikomotorik level 2 (manipulasi gerakan tubuh dalam
+ketrampilan presentasi);
+[5]. Penulisan daftar pustaka disarankan menggunakan salah satu standar/style penulisan pustaka internasional, dalam contoh ini menggunakan style APA
+[6]. RPS : Rencana Pembelajaran Semester, RMK : Rumpun Mata Kuliah, Prodi : Program Studi
+
+RENCANA TUGAS MAHASISWA 1
+
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+MATA KULIAH
+KODE
+SKS
+SEMESTER
+DOSEN
+BENTUK TUGAS
+
+:
+:
+:
+:
+:
+:
+
+JUDUL TUGAS
+
+:
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+TEKNIK INFORMATIKA – S1
+
+RENCANA TUGAS MAHASISWA
+Manajemen Proyek
+3
+5
+Novita Kurnia Ningrum
+Tugas Mandiri
+Tugas1: membuat WBS, Matrik tanggung jawab,Gantt Chart, Network, dan
+mengintegrasikan WBS dengan struktur organisasi dan matrik tanggung jawab
+
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mahasiswa mampu membuat jadwal proyek sesuai dengan ruang lingkup proyek
+DESKRIPSI TUGAS
+Tugas dikerjakan secara kelompok untuk membuat jadwal proyek sesuai dengan ruang lingkup proyek
+METODE PENGERJAAN TUGAS
+1. Menentukan proyek perangkat lunak yang akan dipilih oleh kelompok
+2. Merumuskan ruang lingkup proye perangkat lunak
+3. membuat WBS, Matrik tanggung jawab,Gantt Chart, Network, dan mengintegrasikan WBS dengan struktur
+organisasi dan matrik tanggung jawab
+4. Menyusun laporan makalah (pastikan menghindari plagiasi, dilarang copy paste)
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : laporan penjadwalan proyek dalam bentuk WBS, Gant Chart yang sudah diintegrasikan
+dengan struktur organisasi dan matrik tanggung jawab
+b. Bentuk Luaran
+Laporan makalah ditulis dengan MS Word dengan sistematika dan format sesuai dengan standar panduan
+penulisan laporan di Udinus, dikumpulkan dengan format ekstensi (*.pdf), dengan sistematika nama file:
+(Kelompok kuliah-Tugas 1- Nim Nama)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+a. Format Penulisan [bobot 20%]
+1. Penulisan Makalah dengan sistematika dan format yang telah ditetapkan, kemutakhiran literature (5 tahun
+terakhir), kejelasan dan ketajaman meringkas, konsistensi dan kerapian dalam sajian tulisan.
+2. Kesesuaian sistematika nama file yang dikirim melalui email
+b. Isi Makalah [50%]
+1. Ketepatan sistematika pelaporan makalah sesuai dengan standar panduan penulisan laporan;
+2. Ketepatan tata tulis makalah sesuai dengan ejaan bahasa Indonesia yang benar dan baik dalam penyajian
+tabel, gambar;
+3. Kerapian sajian makalah yang dikumpulkan;
+4. Kelengkapan penggunaan fitur-fitur yang ada dalam MS Word dalam penulisan dan sajian makalah
+5. Penulisan rujukan dan penulisan sitasi yang baik
+c. Ketepatan Waktu Pengumpulan [30%]
+Kesesuaian waktu pengiriman tugas dengan jadwal yang sudah disepakati
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+:
+Desember 2018
+LAIN-LAIN
+Kirimkan ke novita.kn@dsn.dinus.ac.id
+DAFTAR PUSTAKA
+1.
+Kthy Schwaalbe, Information Technology Project Seven Edition
+2.
+Budi Santosa , 2009, Manajemen Proyek,penerbit Graha Ilmu Yogyakarta.
+3.
+Clifford F.Gray Erik W.Larson,2007, Manajemen Proyek Proses ManajerialPenerbit Andi : Yogyakarta
+
+RENCANA TUGAS MAHASISWA 2
+
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+MATA KULIAH
+KODE
+SKS
+SEMESTER
+DOSEN
+BENTUK TUGAS
+
+:
+:
+:
+:
+:
+:
+
+JUDUL TUGAS
+
+:
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+TEKNIK INFORMATIKA – S1
+
+RENCANA TUGAS MAHASISWA
+Manajemen Proyek
+3
+5
+Novita Kurnia Ningrum
+Tugas Mandiri
+Tugas2: menggambar network planning dan menghitung soal dalam studi kasus
+dengan pendekatan CPM
+
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mahasiswa mampu menggambar network planning dan menghitung soal dalam studi kasus dengan pendekatan CPM
+secara individu dan kelompok
+DESKRIPSI TUGAS
+Tugas dikerjakan secara kelompok untuk menggambar network planning dan menghitung soal dalam studi kasus
+dengan pendekatan CPM
+METODE PENGERJAAN TUGAS
+1. Menentukan proyek perangkat lunak yang akan dipilih oleh kelompok
+2. Merumuskan aktivitas dalam proyek
+3. menggambar network planning dan menghitung soal dalam studi kasus dengan pendekatan CPM
+4. Menyusun laporan makalah (pastikan menghindari plagiasi, dilarang copy paste)
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : makalah manajemen proyek perangkat lunak di era internet of things
+b. Bentuk Luaran
+Laporan makalah ditulis dengan MS Word dengan sistematika dan format sesuai dengan standar panduan
+penulisan laporan di Udinus, dikumpulkan dengan format ekstensi (*.pdf), dengan sistematika nama file:
+(Kelompok kuliah-Tugas 1- Nim Nama)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+c. Format Penulisan [bobot 20%]
+1. Penulisan Makalah dengan sistematika dan format yang telah ditetapkan, kemutakhiran literature (5 tahun
+terakhir), kejelasan dan ketajaman meringkas, konsistensi dan kerapian dalam sajian tulisan.
+2. Kesesuaian sistematika nama file yang dikirim melalui email
+d. Isi Makalah [50%]
+1. Ketepatan sistematika pelaporan makalah sesuai dengan standar panduan penulisan laporan;
+2. Ketepatan tata tulis makalah sesuai dengan ejaan bahasa Indonesia yang benar dan baik dalam penyajian
+tabel, gambar;
+3. Kerapian sajian makalah yang dikumpulkan;
+4. Kelengkapan penggunaan fitur-fitur yang ada dalam MS Word dalam penulisan dan sajian makalah
+5. Penulisan rujukan dan penulisan sitasi yang baik
+e. Ketepatan Waktu Pengumpulan [30%]
+Kesesuaian waktu pengiriman tugas dengan jadwal yang sudah disepakati
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+:
+Desember 2018
+LAIN-LAIN
+Kirimkan ke novita.kn@dsn.dinus.ac.id
+DAFTAR PUSTAKA
+1.
+Kthy Schwaalbe, Information Technology Project Seven Edition
+2.
+Budi Santosa , 2009, Manajemen Proyek,penerbit Graha Ilmu Yogyakarta.
+3.
+Clifford F.Gray Erik W.Larson,2007, Manajemen Proyek Proses ManajerialPenerbit Andi : Yogyakarta
+
+RENCANA TUGAS MAHASISWA 3
+
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+MATA KULIAH
+KODE
+SKS
+SEMESTER
+DOSEN
+BENTUK TUGAS
+
+:
+:
+:
+:
+:
+:
+
+JUDUL TUGAS
+
+:
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+TEKNIK INFORMATIKA – S1
+
+RENCANA TUGAS MAHASISWA
+Manajemen Proyek
+3
+5
+Novita Kurnia Ningrum
+Tugas Mandiri
+Tugas-3: menghitung analisa performansi proyek dengan menganalisa biaya dan
+jadwal, dan menghitung nilai: PP,ROI, NPV, IRR, Break even point pada proyek
+perangkat lunak
+
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mahasiswa mampu menghitung analisa performansi dengan menganalisa biaya dan jadwal, dan menghitung nilai:
+PP,ROI, NPV, IRR, Break even point pada proyek perangkat lunak
+DESKRIPSI TUGAS
+Tugas dikerjakan secara kelompok untuk menghitung analisa performansi proyek dengan menganalisa biaya dan
+jadwal, dan menghitung nilai: PP,ROI, NPV, IRR, Break even point pada proyek perangkat lunak
+METODE PENGERJAAN TUGAS
+1. Menentukan proyek perangkat lunak yang akan dipilih oleh kelompok
+2. Merumuskan aktivitas dalam proyek
+3. Menganalisa biaya yang dibutuhkan pada setiap aktivitas sesuai dengan jadwal dan tanggung jawab tim proyek
+4. menghitung nilai: PP,ROI, NPV, IRR, Break even point pada proyek perangkat lunak
+5. Menyusun laporan makalah (pastikan menghindari plagiasi, dilarang copy paste)
+BENTUK DAN FORMAT LUARAN
+a. Objek garapan : makalah manajemen proyek perangkat lunak di era internet of things
+b. Bentuk Luaran
+Laporan makalah ditulis dengan MS Word dengan sistematika dan format sesuai dengan standar panduan
+penulisan laporan di Udinus, dikumpulkan dengan format ekstensi (*.pdf), dengan sistematika nama file:
+(Kelompok kuliah-Tugas 1- Nim Nama)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+c. Format Penulisan [bobot 20%]
+1. Penulisan Makalah dengan sistematika dan format yang telah ditetapkan, kemutakhiran literature (5 tahun
+terakhir), kejelasan dan ketajaman meringkas, konsistensi dan kerapian dalam sajian tulisan.
+2. Kesesuaian sistematika nama file yang dikirim melalui email
+d. Isi Makalah [50%]
+1. Ketepatan sistematika pelaporan makalah sesuai dengan standar panduan penulisan laporan;
+2. Ketepatan tata tulis makalah sesuai dengan ejaan bahasa Indonesia yang benar dan baik dalam penyajian
+tabel, gambar;
+3. Kerapian sajian makalah yang dikumpulkan;
+4. Kelengkapan penggunaan fitur-fitur yang ada dalam MS Word dalam penulisan dan sajian makalah
+5. Penulisan rujukan dan penulisan sitasi yang baik
+e. Ketepatan Waktu Pengumpulan [30%]
+Kesesuaian waktu pengiriman tugas dengan jadwal yang sudah disepakati
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+:
+Februari 2019
+LAIN-LAIN
+Kirimkan ke novita.kn@dsn.dinus.ac.id
+DAFTAR PUSTAKA
+1.
+Kthy Schwaalbe, Information Technology Project Seven Edition
+2.
+Budi Santosa , 2009, Manajemen Proyek,penerbit Graha Ilmu Yogyakarta.
+3.
+Clifford F.Gray Erik W.Larson,2007, Manajemen Proyek Proses ManajerialPenerbit Andi : Yogyakarta
+
+RENCANA TUGAS MAHASISWA 3
+
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+MATA KULIAH
+KODE
+SKS
+SEMESTER
+DOSEN
+BENTUK TUGAS
+
+:
+:
+:
+:
+:
+:
+
+JUDUL TUGAS
+
+:
+
+:
+:
+:
+
+UNIVERSITAS DIAN NUSWANTORO
+ILMU KOMPUTER
+TEKNIK INFORMATIKA – S1
+
+RENCANA TUGAS MAHASISWA
+Manajemen Proyek
+3
+5
+Novita Kurnia Ningrum
+Tugas Mandiri
+Tugas 4: menjelaskan Tugas Individu dan Human resources planning, menyusun
+personal tim, membentuk tim proyek, mengelola tim proyek dalam studi kasus secara
+kelompok
+
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mahasiswa mampu menjelaskan Tugas Individu dan Human resources planning, menyusun personal tim,
+membentuk tim proyek, mengelola tim proyek dalam studi kasus secara kelompok
+DESKRIPSI TUGAS
+Tugas dikerjakan secara kelompok untuk menjelaskan Tugas Individu dan Human resources planning, menyusun
+personal tim, membentuk tim proyek, mengelola tim proyek dalam studi kasus secara kelompok
+METODE PENGERJAAN TUGAS
+6. Menentukan proyek perangkat lunak yang akan dipilih oleh kelompok
+7. Merumuskan aktivitas dalam proyek
+8. Menyusun tim proyek
+9. Merumuskan tugas individu dan human resources planning
+10. Menyusun laporan makalah (pastikan menghindari plagiasi, dilarang copy paste)
+BENTUK DAN FORMAT LUARAN
+c. Objek garapan : makalah manajemen proyek perangkat lunak di era internet of things
+d. Bentuk Luaran
+Laporan makalah ditulis dengan MS Word dengan sistematika dan format sesuai dengan standar panduan
+penulisan laporan di Udinus, dikumpulkan dengan format ekstensi (*.pdf), dengan sistematika nama file:
+(Kelompok kuliah-Tugas 1- Nim Nama)
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+f. Format Penulisan [bobot 20%]
+3. Penulisan Makalah dengan sistematika dan format yang telah ditetapkan, kemutakhiran literature (5 tahun
+terakhir), kejelasan dan ketajaman meringkas, konsistensi dan kerapian dalam sajian tulisan.
+4. Kesesuaian sistematika nama file yang dikirim melalui email
+g. Isi Makalah [50%]
+6. Ketepatan sistematika pelaporan makalah sesuai dengan standar panduan penulisan laporan;
+7. Ketepatan tata tulis makalah sesuai dengan ejaan bahasa Indonesia yang benar dan baik dalam penyajian
+tabel, gambar;
+8. Kerapian sajian makalah yang dikumpulkan;
+9. Kelengkapan penggunaan fitur-fitur yang ada dalam MS Word dalam penulisan dan sajian makalah
+10. Penulisan rujukan dan penulisan sitasi yang baik
+h. Ketepatan Waktu Pengumpulan [30%]
+Kesesuaian waktu pengiriman tugas dengan jadwal yang sudah disepakati
+JADWAL PELAKSANAAN
+Pengumpulan tugas
+:
+Februari 2019
+LAIN-LAIN
+Kirimkan ke novita.kn@dsn.dinus.ac.id
+DAFTAR PUSTAKA
+
+4.
+5.
+6.
+
+Kthy Schwaalbe, Information Technology Project Seven Edition
+Budi Santosa , 2009, Manajemen Proyek,penerbit Graha Ilmu Yogyakarta.
+Clifford F.Gray Erik W.Larson,2007, Manajemen Proyek Proses ManajerialPenerbit Andi : Yogyakarta
+
+

@@ -1,0 +1,1242 @@
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: TEKNIK INFORMATIKA – PROGRAM SARJANA
+
+RENCANA PEMBELAJARAN SEMESTER
+Mata Kuliah
+Sistem Terdistribusi
+Otorisasi/
+Pengesahan
+
+Kode
+A11.64501
+
+Rumpun Mata Kuliah
+SK3D
+Dosen Pengembang RPS
+
+Wildanil Ghozi, M.Kom
+
+Capaian
+Pembelajaran (CP)
+
+Bobot SKS
+T=3
+P=0
+
+Semester
+5
+Koordinator RMK
+
+Tanggal Penyusunan
+10 Agustus 2023
+Ketua Program Studi
+
+Wildanil Ghozi, M.Kom
+
+Sri Winarno, Ph.D
+
+CPL Prodi yang dibebankan pada MK
+CPL04
+Mampu menganalisis persoalan computing yang kompleks untuk mengidentifikasi solusi pengelolaan
+proyek teknologi bidang informatika dengan mempertimbangkan wawasan perkembangan ilmu
+transdisiplin.
+Capaian Pembelajaran Mata Kuliah (CPMK)
+CPMK4.1
+Mampu menganalisis persoalan computing yang kompleks untuk mengidentifikasi solusi pengelolaan
+proyek teknologi bidang informatika dengan mempertimbangkan wawasan perkembangan ilmu
+transdisiplin.
+Kemampuan akhir setiap tahapan belajar (Sub –CPMK)
+Sub-CPMK4.1.1
+Mampu Memahami dan menjelaskan tujuan dan pemanfaatan Sistem Terdistribusi
+Sub-CPMK4.1.2
+Mampu menjelaskan bagaimana sistem tersebar dimodelkan untuk dipelajari dan dikembangkan untuk
+menangani permasalahan yang berbeda-beda
+Sub-CPMK4.1.3
+Mampu menjelaskan pengertian proses dan thread, serta virtualisasi dalam sistem terdistribusi
+Sub-CPMK4.1.4
+mampu menjelaskan bagaimana komunikasi antar sistem, disertai kelebihan dan kekurangan
+masingmasing teknik komunikasi yang telah dikembangkan
+Sub-CPMK4.1.5
+Mampu menganalisa kebutuhan penamaan dan pengalamatan pada sistem tersebar dan menjelaskan caracara menamai sebuah entitas disertai cara menemukan entitas tersebut
+Sub-CPMK4.1.6
+Mampu mengimplementasikan sinkronisasi pada sistem tersebar, beserta teknik-teknik sinkronisasi yang
+sesuai untuk kondisi-kondisi tertentu
+
+Sub-CPMK4.1.7
+
+Deskripsi Singkat
+MK
+
+Bahan Kajian:
+Materi Pembelajaran
+
+Mampu menjelaskan konsep serta mengimplementasikan distributed file system beserta komponenkomponen pendukungnya
+Sub-CPMK4.1.8
+Mampu menjelaskan dan mengimplementasikan konsep toleransi kesalahan yang sesuai dengan
+kebutuhan komputasi sebagai bagian keamanan sistem terdistribusi
+Sub-CPMK4.1.9
+Mampu memperbandingkan cara kerja komputasi terdistribusi antara konsep grid dan konsep terkluster
+Sub-CPMK4.1.10 Mampu menjelaskan konsep dan arsitektur Web Service, CORBA dan RMI
+Sub-CPMK4.1.11 Mampu mengunakan teknik-teknik sistem terdistribusi sebagai solusi kebutuhan komputasi yang
+kompleks
+Hubungan CPL Prodi terhadap Sub-CPMK
+CPL3(%)
+Bobot Penilian (%)
+Jumlah Minggu
+Sub-CPMK4.1.1
+5
+5
+1
+Sub-CPMK4.1.2
+10
+10
+1
+Sub-CPMK4.1.3
+10
+10
+2
+Sub-CPMK4.1.4
+5
+5
+1
+Sub-CPMK4.1.5
+10
+10
+1
+Sub-CPMK4.1.6
+5
+5
+1
+Sub-CPMK4.1.7
+10
+10
+1
+Sub-CPMK4.1.8
+10
+10
+2
+Sub-CPMK4.1.9
+5
+5
+1
+Sub-CPMK4.1.10
+10
+10
+2
+Sub-CPMK4.1.11
+20
+20
+1
+Jumlah
+100
+100
+14
+Dalam perkuliahan sistem terdistribusi ini, mahasiswa akan diperkenalkan dengan berbagai konsep dan pengertian sistem
+terdistribusi, manfaat, kegunaan dan efek penggunaannya. Matakuliah ini juga akan mendeskripsikan model-model
+arsitekturnya, protokol yang digunakan, keamanaannya, pemrograman remote invocation & object terdistribusi, sinkronisasi,
+replikasi, dan transaksi, hingga quality of service, beserta contoh kasusnya.
+1. Pendahuluan dan Pengenalan pada Sistem Terdistribusi
+2. Arsitektur Sistem Terdistribusi
+3. Proses Terdistribusi
+4. Komunikasi
+5. Sistem Penamaan
+6. Sinkronisasi
+7. Konsistensi dan Replikasi
+8. Toleransi dan Keamanan
+9. Cluster Computing dan Grid Computing
+10. Distributed File Systems
+11. Web Service
+
+12. Distributed Object CORBA dan RMI
+Utama :
+1.
+2.
+
+Pendukung:
+1. The Cloud Computing and Distributed Systems (CLOUDS) Laboratory, University of Melbourne,
+http://ww2.cs.mu.oz.au/678/
+2. Periyadi, Tafta Zani, Isa Puncuna, Budi Laksono Putro, Sistem Tersebar, Politeknik Telkom
+Perangkat Lunak :
+Perangkat Keras :
+VirtualBox VM
+Komputer (PC/laptop)
+Abdussalam, M.Kom
+Aditya Nugraha, M.Kom
+Edi Faisal, S.Kom, M.Kom
+Elkaf Rahmawan P, M.Kom
+L. Budi Handoko, M.Kom
+Chaerul Umam, M.Kom
+Wildanil Ghozi, M.Kom
+Sistem Operasi, Jaringan Komputer
+
+Pustaka
+
+Media
+Pembelajaran
+
+Dosen Pengampu /
+Tim Teaching
+
+Mata kuliah syarat
+
+Minggu
+Ke-
+
+(1)
+1
+
+Andrew S. Tanenbaum & Maarten van Steen, Distributed Systems: Principles and Paradigms, Prentice Hall
+George Coulouris, Jean Dollimore & Tim Kindberg, Distributed System : Concept and Design, Addison Wesley
+
+Kemampuan akhir
+tiap tahapan belajar
+(Sub - CPMK)
+
+(2)
+Sub-CPMK4.1.1:
+Mampu Memahami dan
+menjelaskan tujuan dan
+pemanfaatan Sistem
+Terdistribusi
+
+Bentuk Pembelajaran ;
+Metode Pembelajaran;
+Penugasan Mahasiswa
+(estimasi waktu)
+
+Penilaian
+
+Indikator
+
+Teknik & Kriteria
+
+(3)
+
+(4)
+
+Ketepatan dalam
+menjelaskan
+tujuan dan
+pemanfaatan
+Sistem
+Terdistribusi
+
+Teknik penilaian:
+▪ Tes tertulis
+Kriteria:
+▪ Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+
+Luring (5)
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, diskusi kelompok
+kecil
+[TM:(1x3x50’)]
+
+Daring
+(6)
+-
+
+Materi Pembelajaran
+(Pustaka)
+
+Bobot
+Penilaian
+
+(7)
+
+(8)
+
+Pertemuan 1
+▪ Latar Belakang Sistem Tersebar
+▪ Manfaat Sistem Tersebar
+▪ Kerugian Sistem Tersebar
+▪ Karakteristik Sistem Tersebar
+▪ Jenis Sistem Tersebar
+
+PbBL/PjBL
+:TGS : UTS : 5%
+UAS : Sub-total : 5%
+
+2
+
+3,4
+
+Sub-CPMK4.1.2:
+Mampu menjelaskan
+bagaimana sistem tersebar
+dimodelkan untuk dipelajari
+dan dikembangkan untuk
+menangani permasalahan
+yang berbeda-beda
+
+Sub-CPMK4.1.3:
+Mampu menjelaskan
+pengertian proses dan thread,
+serta virtualisasi dalam sistem
+terdistribusi
+
+Ketepatan dalam
+menjelaskan
+bagaimana sistem
+tersebar
+dimodelkan untuk
+dipelajari dan
+dikembangkan
+untuk menangani
+permasalahan
+yang berbedabeda
+
+Teknik penilaian:
+▪ Tes tertulis
+▪ Review dokumen yang
+memuat ringkasan
+contoh teknologi yang
+memanfaatkan sistem
+terdistribusi pada sebuah
+kasus
+
+Ketepatan dalam
+menjelaskan
+konsep proses dan
+thread dalam
+sistem terdistribusi
+
+Teknik penilaian:
+▪ Tes tertulis
+▪ Penilaian kinerja
+
+Ketepatan dalam
+mengimplementasi
+teknologi
+virtualisasi untuk
+mendukung sistem
+terdistriubsi
+5
+
+Sub-CPMK4.1.4:
+mampu menjelaskan
+bagaimana komunikasi antar
+sistem, disertai kelebihan dan
+kekurangan masingmasing
+teknik komunikasi yang telah
+dikembangkan
+
+Ketepatan dalam
+menjelaskan
+komunikasi dalam
+sistem terdistribusi
+serta menerapkan
+protokol
+komunikasi pada
+sistem terdistribusi
+
+Kriteria:
+▪ Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+
+Kriteria:
+▪ Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+▪ Beberapa mesin virtual
+berjalan di atas mesin
+fisik tunggal
+Teknik penilaian:
+▪ Tes tertulis
+Kriteria:
+Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, diskusi kelompok
+kecil
+[TM:(1x3x50’)]
+
+-
+
+Tugas-1:
+Menyusun ringkasan serta
+menjelaskan contoh
+teknologi yang
+memanfaatkan Sistem
+Terdistribusi pada sebuah
+kasus
+[BT+BM: (1+1)x(3x60’)]
+
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, project-based
+learning
+[TM:(2x3x50’)]
+
+-
+
+Tugas-2:
+Projek implementasi sistem
+terdistribusi dalam
+virtualisasi
+[BT+BM: (2+2)x(3x50’)]
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, diskusi kelompok
+kecil
+[TM:(1x3x50’)]
+
+-
+
+Pertemuan 2
+▪ Sudut pandang Arsitektur Sistem
+Tersebar
+a. Layered architectures
+b. Object-base architectures
+c. Data-center architectures
+d. Event-base architectures
+▪ Arsitektur Sistem Tersebar
+a. Centralized architecture
+b. Decentralized architecture
+c. Hybrid
+d. Architecture Versus
+Middleware
+▪ Blockchain
+a. Konsep Blockchain
+b. Arsitektur Blockchain
+c. Pemanfaatan Blockchain
+Petemuan 3
+▪ Pengenalan proses dan thread
+▪ Konsep Threads dalam sistem
+terdistribusi
+▪ Konsep virtualisasi dalam sistem
+terdistribusi
+Pertemuan 4
+▪ Membuat virtual machine
+▪ Mendemonstrasikan beberapa
+sistem operasi dalam virtual
+machine
+Pertemuan 5
+▪ Dasar-dasar komunikasi jaringan
+a. Layered Protocols
+b. Low-level Layers
+c. Transport Layer
+d. Middleware Layer
+e. Jenis-jenis Komunikasidalam
+Middleware
+▪ Remote procedur call
+a. Operasi Dasar RPC
+b. RPC: Parameter Passing
+c. ASynchronous RPC
+d. RPC pada Tataran Praktis:
+DCE
+▪ Message-oriented
+communication
+a. Arsitektur Message Queuing
+System
+b. Message Broker
+▪ Stream-oriented communication
+
+PbBL/PjBL
+:TGS : 5%
+UTS : 5%
+UAS : Sub-total :
+10%
+
+PbBL/PjBL
+: 5%
+TGS : UTS : 5%
+UAS : Sub-total :
+10%
+
+PbBL/PjBL
+:TGS : UTS : 5%
+UAS : Sub-total : 5%
+
+6
+
+7
+
+Sub-CPMK4.1.5:
+Mampu menganalisa
+kebutuhan penamaan dan
+pengalamatan pada sistem
+tersebar dan menjelaskan
+cara-cara menamai sebuah
+entitas disertai cara
+menemukan entitas tersebut
+
+Ketepatan dalam
+analisa kebutuhan
+penamaan dan
+pengalamatan
+yang sesuai untuk
+sistem terdistribusi
+
+Sub-CPMK4.1.6:
+Mampu menerepakan
+sinkronisasi pada sistem
+tersebar, beserta teknik-teknik
+sinkronisasi yang sesuai untuk
+kondisi-kondisi tertentu
+
+Ketepatan dalam
+menentukan teknik
+sinkronisasi pada
+sistem tersebar
+yang sesuai untuk
+kondisi-kondisi
+tertentu.
+
+8
+9
+
+Teknik penilaian:
+▪ Tes tertulis
+▪ Penilaian kinerja
+Kriteria:
+▪ Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+▪ Mesin virtual mampu
+menerapkan teknik
+resolving dalam
+berkomunikasi
+
+Teknik penilaian:
+▪ Tes tertulis
+Kriteria:
+▪ Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, project-based
+learning
+[TM:(1x3x50’)]
+
+-
+
+Tugas-3:
+Projek menggunakan teknik
+penamaan sederhana (flat
+naming) pada sistem
+terdistribusi
+[BT+BM: (1+1)x(3x50’)]
+
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, diskusi kelompok
+kecil
+[TM:(1x3x50’)]
+
+-
+
+a. Data Stream
+b. Quality of Service
+c. Menegakan QoS
+▪ Multicast communication
+a. Application Level
+Multicasting
+b. Gossiping
+Pertemuan 6
+▪ Pentingnya masalah penamaan
+▪ Nama, identifer, dan alamat
+▪ Flat naming
+a. Teknik resolving
+b. Broadcasting dan
+multicasting
+c. Forwarding pointers
+d. Home-based approach
+e. Hierarchial search three
+▪ Structured naming
+a. Name spaces
+b. Name resolution
+c. Implementasi name space
+d. Attribute based naming
+e. Pemetaan pada distributed
+hash table
+Pertemuan 7
+▪ Sinkronisasi clock
+a. Clock logika
+a. Clock fisik
+b. Algoritma sinkronisasi clock
+c. Penggunaan clock sinkron
+▪ Mutual Exclusion
+a. Algoritma terpusat
+b. Algoritma tersebar
+c. Algoritma token ring
+d. Perbandingan tiga algoritma
+▪ Algoritma Pemilihan
+a. Algoritma Bully
+b. Algoritma Ring
+
+PbBL/PjBL
+: 5%
+TGS : UTS : 5%
+UAS : Sub-total :
+10%
+
+PbBL/PjBL
+:
+TGS : UTS : 5%
+UAS : Sub-total : 5%
+
+UJIAN TENGAH SEMESTER (UTS)
+Sub-CPMK4.1.7:
+Mampu menjelaskan konsep
+serta mengimplementasikan
+distributed file system beserta
+komponen-komponen
+pendukungnya
+
+Ketepatan dalam
+menjelaskan
+konsep distributed
+file system serta
+mengimplementasi
+kannya ke dalam
+sistem terdistribusi
+
+Teknik penilaian:
+▪ Tes tertulis
+▪ Penilaian kinerja
+Kriteria:
+▪ Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, project-based
+learning
+[TM:(1x3x50’)]
+Tugas-4:
+Projek menggunakan
+protokol network file system
+(NFS) untuk memenuhi
+
+-
+
+Pertemuan 9
+▪ Operasi pada file
+▪ Layanan File (File Service)
+▪ Pilihan Desain dalam File
+Service
+▪ Arsitektur File Service
+▪ Contoh File System
+a. NFS (Network File System)
+b. AFS (Andrew File System)
+▪ Access Control
+
+PbBL/PjBL
+: 5%
+TGS : UTS : UAS : 5%
+Sub-total :
+10%
+
+10,11
+
+Sub-CPMK4.1.8:
+Mampu menjelaskan dan
+mengimplementasikan konsep
+toleransi kesalahan yang
+sesuai dengan kebutuhan
+komputasi sebagai bagian
+keamanan sistem terdistribusi
+
+Ketepatan dalam
+mengimplementasi
+kan konsep
+toleransi kesalahan
+yang sesuai
+dengan kebutuhan
+komputasi
+
+Ketepatan dalam
+menerapkan sistem
+keamanan yang
+sesuai dengan
+kembutuhan
+komputasi
+
+12
+
+13,14
+
+Sub-CPMK4.1.9:
+Mampu memperbandingkan
+cara kerja komputasi
+terdistribusi antara konsep
+grid dan konsep terkluster
+
+Sub-CPMK4.1.10:
+Mampu menjelaskan konsep
+dan arsitektur Web Service,
+CORBA dan RMI
+
+Ketepatan dalam
+memperbandingka
+n cara kerja
+komputasi
+terdistribusi antara
+konsep grid dan
+konsep terkluster
+
+Ketepatan dalam
+menjelaskan
+kosenp web
+service, CORBA,
+dan RMI
+Ketepatan dalam
+menentukan
+arsitektur yang
+sesuai untuk
+kebutuhan
+komputasi
+
+▪ Mesin virtual mampu
+menjalankan protokol
+NFS untuk sinkronisasi
+file
+Teknik penilaian:
+▪ Tes tertulis
+▪ Penilaian kinerja
+Kriteria:
+▪ Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+▪ Layanan database
+mampu mereplikasi data
+secara realtime
+
+Teknik penilaian:
+▪ Tes tertulis
+Kriteria:
+▪ Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+Teknik penilaian:
+▪ Tes tertulis
+Kriteria:
+▪ Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+
+kebutuhan sitem
+terdistribusi
+[BT+BM: (1+1)x(3x50’)]
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, project-based
+learning
+[TM:(2x3x50’)]
+
+-
+
+Tugas-5:
+Projek replikasi database
+untuk mendukung keamanan
+data
+[BT+BM: (2+2)x(3x50’)]
+
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, diskusi kelompok
+kecil
+[TM:(1x3x50’)]
+
+-
+
+Pertemuan 10
+▪ Komponen Toleransi Kesalahan
+▪ System Failures
+▪ Penggunaan Redundancy
+a. Konsep Replikasi
+b. Konsistensi dalam sistem
+terdistribusi
+c. Protokol-protokol konsistensi
+▪ Active Replication
+▪ Primary Backup
+Pertemuan 11
+▪ Keamanan terhadap infrastruktur
+▪ Access Control
+▪ Keamanan pada TCP/IP
+▪ Application layer security
+▪ Transport layer security
+▪ Network layer security
+▪ Data Link layer security
+▪ Firewall
+▪ Access Control List
+▪ Network Address Translation
+Pertemuan 12
+▪ Cluster computing
+▪ Grid computing
+▪ Perbedaan cluster dan grid
+▪ Pemanfaatan cluster dan grid
+
+PbBL/PjBL
+: 5%
+TGS : UTS : UAS : 5%
+Sub-total :
+10%
+
+PbBL/PjBL
+:TGS : UTS : UAS : 5%
+Sub-total : 5%
+
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, diskusi kelompok
+kecil
+[TM:(2x3x50’)]
+
+-
+
+Pertemuan 13
+▪ Sejarah Web Service
+▪ Perusahaan pengusul Web
+Service
+▪ Arsitektur Web Service
+▪ Keuntungan dan kerugian Web
+Service
+Pertemuan 14
+▪ CORBA
+a. Arsitektur CORBA
+b. Komponen utama CORBA
+c. Komponen pada client
+d. Komponen pada server
+e. Sistem keamanan CORBA
+▪ RMI
+
+PbBL/PjBL
+:TGS : UTS : UAS : 10%
+Sub-total :
+10%
+
+15
+
+16
+
+Sub-CPMK4.1.11:
+Mampu mengunakan teknikteknik sistem terdistribusi
+sebagai solusi kebutuhan
+komputasi yang kompleks
+
+Ketepatan dalam
+mengimplementasi
+kan teknik-teknik
+sistem terdistribusi
+yang paling sesuai
+untuk memenuhi
+kebutuhan
+komputasi yang
+kompleks
+
+Teknik penilaian:
+▪ Tes tertulis
+▪ Penilaian kinerja
+Kriteria:
+▪ Ketepatan jawaban
+(>=70%), kesesuaian
+dengan konsep teori,
+kemampuan analisis
+sederhana
+▪ Layanan jaringan
+komputer yang mampu
+mentoleransi kegagalan
+dan dapat ditingkaktkan
+skala layanannya secara
+untuk memenuhi
+kebutuhan yang dinamis
+
+Metode pembelajaran:
+Ceramah interaktif &
+diskusi, case-based learning
+[TM:(1x3x50’)]
+Tugas-6:
+Projek studi kasus
+membangun layanan
+jaringan komputer yang
+mampu menjamin
+keamanan, ketersediaan, dan
+performa sistem.
+[BT+BM: (1+1)x(3x50’)]
+
+UJIAN AKHIR SEMESTER (UAS)
+
+-
+
+a. Arsitektur RMI
+b. Komponen RMI
+c. Sistem keamanan RMI
+Pertemuan 15
+▪ Menyusun laporan projek
+membangun sistem terdistribusi
+▪ Mempresentasikan projek sistem
+terdistribusi
+
+PbBL/PjBL
+: 20%
+TGS : UTS : UAS : Sub-total :
+20%
+
+100
+
+Format Rencana Tugas Mahasiswa
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+MATA KULIAH
+KODE
+DOSEN PENGAMPU
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: TEKNIK INFORMATIKA – PROGRAM SARJANA
+
+RENCANA TUGAS MAHASISWA
+Sistem Terdistribusi
+A11.64501
+sks
+3
+SEMESTER
+5
+Abdussalam, M.Kom, Aditya Nugraha, M.Kom, Edi Faisal, S.Kom, M.Kom, Elkaf Rahmawan P, M.Kom,
+L. Budi Handoko, M.Kom, Chaerul Umam, M.Kom, Wildanil Ghozi, M.Kom
+
+METODE PENUGASAN
+Meringkas modul
+JUDUL TUGAS:
+Tugas-1:
+Menyusun ringkasan serta menjelaskan contoh teknologi yang memanfaatkan Sistem Terdistribusi pada sebuah kasus
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mampu menjelaskan bagaimana sistem tersebar dimodelkan untuk dipelajari dan dikembangkan untuk menangani permasalahan yang
+berbeda-beda
+DESKRIPSI TUGAS
+Menyusun ringkasan:
+1. Sudut pandang Arsitektur Sistem Tersebar
+2. Jenis-jenis arsitektur sistem tersebar
+3. Teknologi blockchain
+LANGKAH/METODE PENGERJAAN TUGAS
+Pelajari materi dengan menyimak dan diskusi di kelas, kemudian menulis ringkasan sesuai deskripsi tugas pada lembar kertas.
+BENTUK DAN FORMAT LUARAN
+Esai tertulis pada lembar kertas
+
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator :
+1. Ketepatan dalam menjelaskan bagaimana sistem tersebar dimodelkan untuk dipelajari dan dikembangkan untuk menangani
+permasalahan yang berbedabeda
+Kriteria :
+1. Ketepatan jawaban (>=70%), kesesuaian dengan konsep teori, kemampuan analisis sederhana.
+JADWAL PELAKSANAAN
+Pertemuan ke 2, maksimal 1 hari setelah tugas diberikan.
+LAIN-LAIN
+Pengumpulan dilakukan dalam bentuk fisik.
+DAFTAR PUSTAKA
+1.
+
+Format Rencana Tugas Mahasiswa
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+MATA KULIAH
+KODE
+DOSEN PENGAMPU
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: TEKNIK INFORMATIKA – PROGRAM SARJANA
+
+RENCANA TUGAS MAHASISWA
+Sistem Terdistribusi
+A11.64501
+sks
+3
+SEMESTER
+5
+Abdussalam, M.Kom, Aditya Nugraha, M.Kom, Edi Faisal, S.Kom, M.Kom, Elkaf Rahmawan P, M.Kom,
+L. Budi Handoko, M.Kom, Chaerul Umam, M.Kom, Wildanil Ghozi, M.Kom
+
+METODE PENUGASAN
+Project Based Learning (PjBL)
+JUDUL TUGAS:
+Tugas-2:
+Projek implementasi sistem terdistribusi dalam virtualisasi
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mampu menjelaskan pengertian proses dan thread, serta virtualisasi dalam sistem terdistribusi
+DESKRIPSI TUGAS
+Membuat virtual machine dan menjalankan beberapa virtual machine di dalam satu physical machine.
+LANGKAH/METODE PENGERJAAN TUGAS
+1. Download VirtualBox VM dan sistem operasi Ubuntu Server
+2. Install VirtualBox VM, kemudian buat virtual machine pada laptop
+3. Install Ubuntu Server pada virtual machine yang telah dibuat
+4. Clone virtual machine untuk mengahsilkan beberapa virtual machine baru
+BENTUK DAN FORMAT LUARAN
+1. Laporan proyek diunggah melalui kulino dalam format PDF.
+2. Demonstrasi proyek
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator :
+
+1. Ketepatan dalam mengimplementasi teknologi virtualisasi untuk mendukung sistem terdistriubsi
+Kriteria :
+1. Beberapa mesin virtual berjalan di atas mesin fisik tunggal
+JADWAL PELAKSANAAN
+Pertemuan ke 4, maksimal 1 minggu setelah tugas diberikan.
+LAIN-LAIN
+DAFTAR PUSTAKA
+1.
+
+Format Rencana Tugas Mahasiswa
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+MATA KULIAH
+KODE
+DOSEN PENGAMPU
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: TEKNIK INFORMATIKA – PROGRAM SARJANA
+
+RENCANA TUGAS MAHASISWA
+Sistem Terdistribusi
+A11.64501
+sks
+3
+SEMESTER
+5
+Abdussalam, M.Kom, Aditya Nugraha, M.Kom, Edi Faisal, S.Kom, M.Kom, Elkaf Rahmawan P, M.Kom,
+L. Budi Handoko, M.Kom, Chaerul Umam, M.Kom, Wildanil Ghozi, M.Kom
+
+METODE PENUGASAN
+Project Based Learning (PjBL)
+JUDUL TUGAS:
+Tugas-3:
+Projek menggunakan teknik penamaan sederhana (flat naming) pada sistem terdistribusi
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mampu menganalisa kebutuhan penamaan dan pengalamatan pada sistem tersebar dan menjelaskan cara-cara menamai sebuah entitas
+disertai cara menemukan entitas tersebut
+DESKRIPSI TUGAS
+Mengkonfigurasi alamat IP dan konfigurasi file /etc/hosts untuk memberikan penamaan sederhana pada setiap host, sehingga setiap host
+dapat menemukan host lainnya melalui domain name.
+LANGKAH/METODE PENGERJAAN TUGAS
+1. Pastikan interface telah terhubung pada virtual machine
+2. Konfigurasi IP address untuk memberikan alamat IP pada semua interface
+3. Periksa konektivitas IP address menggunakan perintah ping
+4. Konfigurasi file /etc/hosts untuk memberikan flat naming sederhana pada semua host
+5. Periksa teknik resolving hostname menggunakan perintah ping
+BENTUK DAN FORMAT LUARAN
+3. Laporan proyek diunggah melalui kulino dalam format PDF.
+4. Demonstrasi proyek
+
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator :
+1. Ketepatan dalam analisa kebutuhan penamaan dan pengalamatan yang sesuai untuk sistem terdistribusi
+Kriteria :
+1. Mesin virtual mampu menerapkan teknik resolving dalam berkomunikasi
+JADWAL PELAKSANAAN
+Pertemuan ke 6, maksimal 1 minggu setelah tugas diberikan.
+LAIN-LAIN
+DAFTAR PUSTAKA
+1.
+
+Format Rencana Tugas Mahasiswa
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+MATA KULIAH
+KODE
+DOSEN PENGAMPU
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: TEKNIK INFORMATIKA – PROGRAM SARJANA
+
+RENCANA TUGAS MAHASISWA
+Sistem Terdistribusi
+A11.64501
+sks
+3
+SEMESTER
+5
+Abdussalam, M.Kom, Aditya Nugraha, M.Kom, Edi Faisal, S.Kom, M.Kom, Elkaf Rahmawan P, M.Kom,
+L. Budi Handoko, M.Kom, Chaerul Umam, M.Kom, Wildanil Ghozi, M.Kom
+
+METODE PENUGASAN
+Project Based Learning (PjBL)
+JUDUL TUGAS:
+Tugas-4:
+Projek menggunakan protokol network file system (NFS) untuk memenuhi kebutuhan sitem terdistribusi
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mampu menjelaskan konsep serta mengimplementasikan distributed file system beserta komponen-komponen pendukungnya
+DESKRIPSI TUGAS
+Menkgonfigurasi virtual machine untuk berbagi pakai file antar host. Salah satu host berperan sebagai NFS server, sedangkan yang lainnya
+menjadi NFS client.
+LANGKAH/METODE PENGERJAAN TUGAS
+1. Pastikan konfigurasi hostname dan IP telah berhasil dan dapat berkomunikasi melalui hostname
+2. Konfigurasikan salah satu host sebagai NFS server dengan mengkonfigurasi file /etc/exprot
+3. Konfigurasikan host lainnya sebagai client dengan melakukan mounting NFS melalui command line
+4. Konfigurasikan host lainnya sebagai client dengan melakukan mounting otomatis melalui konfigurasi file /etc/fstab
+BENTUK DAN FORMAT LUARAN
+1. Laporan proyek diunggah melalui kulino dalam format PDF.
+2. Demonstrasi proyek
+
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator :
+1. Ketepatan dalam menjelaskan konsep distributed file system serta mengimplementasi kannya ke dalam sistem terdistribusi
+Kriteria :
+1. Mesin virtual mampu menjalankan protokol NFS untuk sinkronisasi file
+JADWAL PELAKSANAAN
+Pertemuan ke 9, maksimal 1 minggu setelah tugas diberikan.
+LAIN-LAIN
+DAFTAR PUSTAKA
+1.
+
+Format Rencana Tugas Mahasiswa
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+MATA KULIAH
+KODE
+DOSEN PENGAMPU
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: TEKNIK INFORMATIKA – PROGRAM SARJANA
+
+RENCANA TUGAS MAHASISWA
+Sistem Terdistribusi
+A11.64501
+sks
+3
+SEMESTER
+5
+Abdussalam, M.Kom, Aditya Nugraha, M.Kom, Edi Faisal, S.Kom, M.Kom, Elkaf Rahmawan P, M.Kom,
+L. Budi Handoko, M.Kom, Chaerul Umam, M.Kom, Wildanil Ghozi, M.Kom
+
+METODE PENUGASAN
+Project Based Learning (PjBL)
+JUDUL TUGAS:
+Tugas-5:
+Projek replikasi database untuk mendukung keamanan data
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mampu menjelaskan dan mengimplementasikan konsep toleransi kesalahan yang sesuai dengan kebutuhan komputasi sebagai bagian
+keamanan sistem terdistribusi
+DESKRIPSI TUGAS
+Mengkonfigurasi database server untuk menyediakan replikasi database dengan teknik passife replication sebagai backup database secara
+realtime
+LANGKAH/METODE PENGERJAAN TUGAS
+1. Pastikan konfigurasi IP sudah berhasil
+2. Konfigurasi hostname untuk menjadikan host sebagai primary sedangkan yang lainnya sebaai backup
+3. Install database server pada semua host baik primary maupun backup
+4. Konfigurasi kan database master pada server primary dan database slave pada server backup
+5. Periksa status database pada kedua server
+6. Buat username baru yang dapat login malalui remote access dan berikan hak akses akun tersebut pada sebuah database
+7. Uji coba akses database dari client melalui perinah command line
+
+BENTUK DAN FORMAT LUARAN
+1. Laporan proyek diunggah melalui kulino dalam format PDF.
+2. Demonstrasi proyek
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator :
+1. Ketepatan dalam mengimplementasi kan konsep toleransi kesalahan yang sesuai dengan kebutuhan komputasi
+2. Ketepatan dalam menerapkan sistem keamanan yang sesuai dengan kembutuhan komputasi
+Kriteria :
+1. Layanan database mampu mereplikasi data secara realtime
+JADWAL PELAKSANAAN
+Pertemuan ke 11, maksimal 1 minggu setelah tugas diberikan.
+LAIN-LAIN
+DAFTAR PUSTAKA
+1.
+
+Format Rencana Tugas Mahasiswa
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+MATA KULIAH
+KODE
+DOSEN PENGAMPU
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: TEKNIK INFORMATIKA – PROGRAM SARJANA
+
+RENCANA TUGAS MAHASISWA
+Sistem Terdistribusi
+A11.64501
+sks
+3
+SEMESTER
+5
+Abdussalam, M.Kom, Aditya Nugraha, M.Kom, Edi Faisal, S.Kom, M.Kom, Elkaf Rahmawan P, M.Kom,
+L. Budi Handoko, M.Kom, Chaerul Umam, M.Kom, Wildanil Ghozi, M.Kom
+
+METODE PENUGASAN
+Project Based Learning (PjBL)
+JUDUL TUGAS:
+Tugas-6:
+Projek studi kasus membangun layanan jaringan komputer yang mampu menjamin keamanan, ketersediaan, dan performa sistem.
+SUB CAPAIAN PEMBELAJARAN MATA KULIAH
+Mampu mengunakan teknikteknik sistem terdistribusi sebagai solusi kebutuhan komputasi yang kompleks
+DESKRIPSI TUGAS
+Membangun infrastruktur sistem yang mendukung sistem terdistribusi untuk menjamin keamanan data, ketersediaan layanan, dan performa
+yang tinggi.
+LANGKAH/METODE PENGERJAAN TUGAS
+1. Tentukan layanan yang akan dipilih untuk mendukung sistem terdistribusi (Web, database, storage, computing, virtualisasi)
+2. Bangun infrastruktur layanan tersebut pada virtual machine, jika membutuhkan banyak mesin dapat menggunakan 2 atau lebih
+mesih fisik
+3. Uji keamanan data dan ketersediaan layanan dengan cara mematikan salah satu mesih virtual secara mendadak
+4. Uji kekuatan komputasi dengan mengirimkan beban komputasi yang besar dan dinamis kepada server layanan
+BENTUK DAN FORMAT LUARAN
+1. Laporan proyek diunggah melalui kulino dalam format PDF.
+2. Demonstrasi proyek
+
+INDIKATOR, KRITERIA DAN BOBOT PENILAIAN
+Indikator :
+1. Ketepatan dalam mengimplementasi kan teknik-teknik sistem terdistribusi yang paling sesuai untuk memenuhi kebutuhan komputasi
+yang kompleks Ketepatan dalam menerapkan sistem keamanan yang sesuai dengan kembutuhan komputasi
+Kriteria :
+1. Layanan jaringan komputer yang mampu mentoleransi kegagalan dan dapat ditingkaktkan skala layanannya secara untuk memenuhi
+kebutuhan yang dinamis
+JADWAL PELAKSANAAN
+Pertemuan ke 15, maksimal 1 minggu setelah tugas diberikan.
+LAIN-LAIN
+DAFTAR PUSTAKA
+1.
+
+

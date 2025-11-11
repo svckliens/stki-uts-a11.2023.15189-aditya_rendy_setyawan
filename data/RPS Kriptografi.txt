@@ -1,0 +1,794 @@
+PERGURUAN TINGGI
+FAKULTAS
+PROGRAM STUDI
+
+Mata Kuliah
+Kriptografi
+
+Otorisasi
+
+Capaian Pembelajaran (CP)
+
+Deskripsi Singkat
+Mata Kuliah
+
+: UNIVERSITAS DIAN NUSWANTORO
+: ILMU KOMPUTER
+: SARJANA TEKNIK INFORMATIKA
+
+RENCANA PEMBELAJARAN SEMESTER (RPS)
+Kode
+Rumpun Mata Kuliah
+SKS
+Semester
+A11.54606
+Wajib Program Studi
+3
+6
+Dosen Pengembang RPS
+Koordinator RMK
+
+ttd
+
+Tanggal Penyusunan
+20 September2019
+Ketua Program Studi
+
+ttd
+
+Adhitya Nugraha, S.Kom, M.CS
+L. Budi Handoko, M.Kom
+Dr. Muljono, S.Si, M.Kom
+Capaian Pembelajaran Program Studi
+S9
+Menunjukkan sikap bertanggungjawab atas pekerjaan di bidang keahliannya secara mandiri
+P1
+Menguasai konsep teoritis bidang pengetahuan Ilmu Komputer /Informatika secara umum dan konsep teoritis bagian khusus
+dalam bidang pengetahuan tersebut secara mendalam, serta mampu memformulasikan penyelesaian masalah prosedural.
+P2
+Memiliki pengetahuan yang memadai terkait dengan cara kerja sistem komputer dan mampu merancang dan mengembangkan
+berbagai algorithma /metode untuk memecahkan masalah.
+KU1
+Mampu menerapkan pemikiran logis, kritis, sistematis, dan inovatif dalam konteks pengembangan atau implementasi ilmu
+pengetahuan dan teknologi yang memperhatikan dan menerapkan nilai humaniora yang sesuai dengan bidang keahliannya.
+KU2
+Mampu menunjukkan kinerja mandiri, bermutu, dan terukur.
+KU5
+Mampu mengambil keputusan secara tepat dalam konteks penyelesaian masalah di bidang keahliannya, berdasarkan hasil
+analisis informasi dan data.
+KK13
+Menerapkan konsep-konsep yang berkaitan dengan arsitektur dan organisasi komputer serta memanfaatkannya untuk
+menunjang aplikasi komputer.
+Capaian Pembelajaran Mata Kuliah
+M1
+Mahasiswa mampu memahami dasar-dasar konsep kriptografi
+M2
+Mahasiswa mengetahui perkembangan teknologi keamanan jaringan dan kegunaan kriptografi dalam mengamankan proses
+pengiriman data melalui jaringan
+M3
+Mahasiswa mampu menyelesaikan ataupun mengantisipasi masalah yang mungkin terjadi dalam penggunaan teknik kriptografi
+M4
+Mahasiswa mampu merancang dan membangun serta mengimplementasikan algoritma kriptografi dalam bentuk program
+sederhana yang mendukung sistem informasi yang ada
+Mata Kuliah ini mengkaji tentang konsep kriptografi dalam mengamankan informasi pada sistem komunikasi data terhadap serangan-serangan
+yang berasal dari dalam jaringan sendiri (LAN) maupun dari jaringan luar (Internet). Pembahasan difokuskan pada algoritma kriptografi klasik dan
+modern, perkembangan dan implementasi dari algoritma kriptografi.
+
+Materi Pembelajaran/
+Pokok Bahasan
+
+Pustaka
+
+Media Pembelajaran
+Tim Teaching
+Mata Kuliah Syarat
+
+Setelah mengikuti perkuliahan, mahasiswa menguasai pengetahuan, pengertian, & pemahaman tentang teknik-teknik kriptografi. Selain itu
+mahasiswa mampu mengimplementasikan teknik kriptografi untuk mengamankan informasi yang akan dikirimkan melalui jaringan komputer.
+1. Paradigma Keamanan Komputer ;
+2. Sejarah dan Perkembangan Kriptografi;
+3. Teknik Subtitusi Abjad;
+4. Teknik Playfair Cipher
+5. Teknik Vigenere dan Hill Cipher
+6. Teknik Transposisi/Permutasi
+7. Super Enkripsi dan Algoritma Sempurna
+8. Teknik Stream Cipher dan Teknik Block Cipher
+9. Data Encryption Standart (DES)
+10. Advanced Encryption Standart (AES)
+11. RSA dan MD5
+12. Steganografi dan Watermarking
+Utama :
+1. Rinaldi Munir, 2019, Kriptografi edisi kedua, Informatika
+2. Joshua Holden, 2017, The matematics of secrets, Princenton University Press
+Pendukung :
+3. Samuel Bowne, 2018, Hands-on Cryptography with phyton, Packt Publishing
+Perangkat Lunak :
+Perangkat Keras :
+Tim Pengampu Mata Kuliah Kriptografi
+Matematika diskrit
+
+Mgg
+ke
+(1)
+1
+
+2
+
+3
+
+4
+
+Sub CP MK
+(sebagai kemampuan
+akhir yang diharapkan)
+(2)
+
+Indikator
+(3)
+
+Kriteria & Bentuk
+Penilaian
+(4)
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+Setelah mengikuti kuliah
+ini mahasiswa dapat:
+ Memahami dan
+menjelaskan peran
+kriptografi dalam
+pengamanan data
+
+Mahasiswa mampu menyebutkan
+dan menjelaskan peran kriptografi
+dalam mengamankan proses
+pengiriman pesan elektronik
+
+Setelah mengikuti kuliah
+ini mahasiswa dapat:
+ Memperoleh gambaran
+secara lengkap
+mengenai sejarah dan
+terminologi kriptografi
+ Memahami dan
+menjelaskan
+perbedaan kriptografi
+klasik dan modern
+Setelah mengikuti kuliah
+ini mahasiswa dapat:
+ Memahami dan
+menjelaskan teknik
+subtitusi abjad
+ Menganalisa dan
+menyelesaikan
+persoalan yang
+diberikan
+menggunakan teknik
+subtitusi abjad secara
+tepat
+
+Mahasiswa mampu:
+1. Menjelaskan terminologi yang
+digunakan dalam kriptografi
+2. Menganalisa perbedaan
+antara metode kriptografi
+klasik dan modern
+3. Menyelesaikan persoalan
+yang diberikan
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+Mahasiswa mampu:
+1. Menjelaskan konsep subtitusi
+abjad
+2. Mengklasifikasikan jenis-jenis
+teknik subtitusi abjad
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+Setelah mengikuti kuliah
+ini mahasiswa dapat:
+
+Mahasiswa mampu:
+1. Menjelaskan dan memahami
+langkah-langkah playfair
+cipher
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+ Kuliah & Diskusi
+[TM:2x(3x50’)]
+ Tugas-1: menyusun
+ringkasan yang
+menyebutkan dan
+menjelaskan aplikasi dari
+implementasi kriptografi
+dalam mengamankan
+data
+[BT+BM:
+2x(1+1)x(3x50’)]
+
+
+
+
+Kuliah & Diskusi
+TM:2x(3x50’)]
+Tugas-2:
+mengembangkan aplikasi
+sederhana yang
+mengimplementasikan
+teknik subtitusi abjad
+[BT+BM: (1+1)x(3x50’)]
+
+Materi pembelajaran
+(6)
+a.
+b.
+c.
+
+
+
+
+Kuliah & Diskusi
+TM:2x(3x50’)]
+Tugas-3:
+mengembangkan aplikasi
+
+(7)
+5
+
+a.
+b.
+c.
+d.
+e.
+
+Sejarah Kriptografi
+Terminologi dalam kriptografi
+Algoritma Kriptografi
+Kriptografi Klasik
+Kriptografi Modern
+
+5
+
+a.
+b.
+
+Teknik Caesar Cipher
+Cipher abjad-tunggal
+(monoalphabetic cipher)
+Cipher substitusi homofonik
+(Homophonic substitution
+cipher)
+Cipher abjad-majemuk
+(Polyalpabetic substitution
+cipher)
+Cipher substitusi poligram
+(Polygram substitution cipher)
+
+5
+
+Sejarah dan konsep Playfair
+cipher
+Aturan untuk Plaintext
+
+10
+
+c.
+
+d.
+
+e.
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+
+Masalah, Ancaman dan Aspek
+Keamanan Komputer
+Studi kasus permasalahan
+dalam pengiriman pesan
+elektronik
+Konsep, peran dan pentingnya
+Kriptografi
+
+Bobot
+Penilaian
+
+a.
+b.
+
+Mgg
+ke
+(1)
+
+5
+
+6
+
+7
+
+8
+
+Sub CP MK
+(sebagai kemampuan
+akhir yang diharapkan)
+(2)
+ Memahami dan
+menjelaskan langkah
+enkripsi playfair
+ Menerapkan playfair
+kedalam program
+aplikasi
+Setelah mengikuti kuliah
+ini mahasiswa dapat:
+ Memahami dan
+menjelaskan konsep
+Vigenere dan Hill
+ Menerapkan metode
+Vigenere dan Hill
+untuk menyelesaikan
+persoalan yang
+diberikan.
+Setelah mengikuti kuliah
+ini mahasiswa dapat:
+ Memahami dan
+menjelaskan berbagai
+jenis teknik transposisi
+ Menerapkan secara
+tepat metode
+transposisi untuk
+menyelesaikan studi
+kasus yang diberikan
+Setelah mengikuti kuliah
+ini mahasiswa dapat
+menganalisa kelebihan
+dan kekurangan algoritma
+sempurna dibandingkan
+teknik sebelumnya
+
+Indikator
+(3)
+2. Mengevaluasi metode playfair
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+sederhana yang
+mengimplementasikan
+teknik playfair atau hill
+cipher [BT+BM:
+2x(1+1)x(3x50’)]
+
+Kriteria & Bentuk
+Penilaian
+(4)
+Tulisan makalah
+
+Mahasiswa mampu:
+1. Menjelaskan langkah-langkah
+Vigenere cipher
+2. Menjelaskan langkah-langkah
+Hill cipher
+3. Menganalisa kelebihan dan
+kekurangan masing-masing
+metode enkripsi
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+Mahasiswa mampu:
+1. Menjelaskan langkah-langkah
+teknik transposisi
+2. Menganalisa perbedaan dari
+masing-masing teknik
+transposisi
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+Mahasiswa mampu menjelaskan
+cara kerja super enkripsi, one
+time pad dan teknik Enigma
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+c.
+d.
+
+a.
+b.
+c.
+d.
+
+
+
+
+Kuliah & Diskusi
+TM:2x(3x50’)]
+Tugas-4: melakukan
+perhitungan manual dari
+studi kasus yang
+diberikan dengan
+menerapkan teknik
+transposisi
+[BT+BM:
+2x(1+1)x(3x50’)]
+
+Ujian Tengah Semester
+
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+
+a.
+b.
+c.
+d.
+
+Materi pembelajaran
+
+Bobot
+Penilaian
+
+(6)
+
+(7)
+
+Pembangkitan kunci pada
+playfair
+Algoritma enkripsi pada playfair
+
+Sejarah dan konsep Vigenere
+Cipher
+Algortima vigenere Cipher
+Sejarah dan konsep Hill Cipher
+Algoritma Hill Cipher
+
+5
+
+Konsep Metode Transposisi
+Perbedaan dengan konsep
+Subtitusi
+Transposisi rail fence
+Transposisi Route
+Transposisi Kolom
+Transposisi Ganda
+Transposisi Myszkowski
+
+5
+
+Konsep Algoritma yang
+sempurna
+Super Enkripsi
+One Time Pad
+Enigma Rotor Machine
+
+5
+
+Mgg
+ke
+(1)
+9
+
+10
+
+11,
+12
+
+13
+
+Sub CP MK
+(sebagai kemampuan
+akhir yang diharapkan)
+(2)
+Setelah mengikuti kuliah
+ini mahasiswa dapat
+menganalisa kelebihan
+dan kekurangan stream
+cipher dibandingkan teknik
+sebelumnya
+
+Setelah mengikuti kuliah
+ini mahasiswa dapat:
+ Memahami dan
+menjelaskan
+perbedaan kriptografi
+klasik dan modern
+ Memahami dan
+menjelaskan cara
+kerja teknik block
+cipher
+Setelah mengikuti kuliah
+ini mahasiswa dapat
+memahami langkahlangkah enkripsi DES
+
+Setelah mengikuti kuliah
+ini mahasiswa dapat
+memahami langkahlangkah enkripsi AES
+
+Indikator
+(3)
+Mahasiswa mampu:
+1. Menjelaskan konspe stream
+cipher
+2. Menganalisa perbedaan
+stream cipher dibandingkan
+teknik sebelumnya
+3. Mengetahui jenis-jenis
+enkripsi pada stream cipher
+Mahasiswa mampu:
+1. Menjelaskan cara kerja dasar
+teknik block cipher
+2. Mengetahui perbedaan jenisjenis block cipher
+
+Kriteria & Bentuk
+Penilaian
+(4)
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+Mahasiswa mampu:
+1. Menjelaskan konsep DES
+2. Mengetahui langkah-langkah
+pada enkripsi DES
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+Mahasiswa mampu:
+1. Menjelaskan konsep AES
+2. Mengetahui langkah-langkah
+pada enkripsi AES
+
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+ Kuliah & Diskusi
+[TM:2x(3x50’)]
+ Tugas-5: menyusun
+ringkasan yang
+menyebutkan dan
+menjelaskan perbedaan
+stream cipher dan teknik
+block cipher
+[BT+BM:
+2x(1+1)x(3x50’)]
+
+Kuliah & Diskusi
+[TM:2x(3x50’)]
+Tugas-6:
+mengembangkan aplikasi
+sederhana yang
+mengimplementasikan
+teknik DES
+[BT+BM:
+2x(1+1)x(3x50’)]
+Kuliah & Diskusi
+[TM:3x50’]
+Tugas-7: implementasi
+algoritma AES kedalam
+program sederhana
+[BT+BM: (1+1)x(3x50’)]
+
+Materi pembelajaran
+(6)
+
+Bobot
+Penilaian
+(7)
+5
+
+a.
+b.
+c.
+d.
+e.
+
+Konsep Stream Cipher
+Operasi pada mode Bit String
+Synchronous Stream Cipher
+Self Synchronous Stream Cipher
+Contoh aplikasi pada stram
+cipher
+
+a.
+b.
+c.
+d.
+
+Mode Electronic Code Block
+Mode Cipher Block Chaining
+Mode Cipher Feed Back
+Mode Output Feed Back
+
+5
+
+a.
+b.
+c.
+
+Konsep dasar DES
+Algoritma DES
+Langkah-langkah enkripsi DES
+
+15
+
+a.
+b.
+c.
+
+Konsep dasar AES
+Algoritma AES
+Langkah-langkah enkripsi AES
+
+10
+
+Mgg
+ke
+(1)
+14
+
+15
+
+16
+
+Sub CP MK
+(sebagai kemampuan
+akhir yang diharapkan)
+(2)
+Setelah mengikuti kuliah
+ini mahasiswa dapat
+memahami dan
+menjelaskan enkripsi RSA
+dan MD5
+Setelah mengikuti kuliah
+ini mahasiswa dapat:
+ Memahami dan
+menjelaskan
+perbedaan
+steganografi dan
+watermarking
+ Menyebutkan berbagai
+contoh aplikasi yang
+menerapkan teknik
+steganografi dan
+watermarking
+
+Indikator
+(3)
+Mahasiswa mampu:
+1. Menjelaskan konsep RSA dan
+MD5
+2. Mengetahui langkah-langkah
+pada enkripsi RSA dan MD5
+Mahasiswa mampu:
+1. Memahami konsep
+Steganografi dan
+Watermarking
+2. Menganalisa dan menjelaskan
+perbedaan Steganografi dan
+Watermarking
+3. Menyebutkan dan
+menjelaskan contoh aplikasi
+yang menerapkan metode
+tersebut.
+
+Kriteria & Bentuk
+Penilaian
+(4)
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+Kriteria :
+Ketepatan dan
+penguasaan
+Bentuk non test :
+Tulisan makalah
+
+Metode Pembelajaran
+[Estimasi Waktu]
+Pengalaman Belajar
+(5)
+Kuliah & Diskusi
+[TM:2x(3x50’)]
+Tugas-8: implementasi
+dan menggabungkan
+proses enkripsi RSA
+dengan Steganografi LSB
+[BT+BM:
+2x(1+1)x(3x50’)]
+
+Materi pembelajaran
+(6)
+a.
+b.
+c.
+d.
+
+Algoritma RSA
+Enkripsi dan dekripsi RSA
+Algoritma MD5
+Enkripsi MD5
+
+a.
+b.
+c.
+d.
+e.
+f.
+
+Sejarah Steganografi
+Digital Watermarking
+Aplikasi Steganografi
+Digital Signature
+Digital Certificate
+Pretty Good Privacy
+
+Ujian Akhir Semester
+
+Catatan :
+[1]. TM : tatap Muka
+[2]. [TM:2x50’] : Kuliah tatap muka 1 kali (minggu) x 3 sks x 50 menit=150 menit
+[3]. [BT+BM:(1+1)x(3x50’)] : Belajar terstruktur 1 kali (minggu) dan belajar mandiri 1 kali (minggu) x 3 sks x 50 menit = 300 menit ( 5 jam)
+[4]. RPS : Rencana Pembelajaran Semester, RMK : Rumpun Mata Kuliah, Prodi : Program Studi
+[5]. Penulisan daftar pustaka disarankan menggunakan salah satu standar/style penulisan pustaka internasional, dalam contoh ini menggunakan style APA
+
+Bobot
+Penilaian
+(7)
+10
+
+15
+
+

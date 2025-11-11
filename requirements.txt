@@ -1,0 +1,10 @@
+#Core Dependencies
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.2
+
+#Text Processing
+Sastrawi==1.0.1
+
+#Utility & Compatibility
+tqdm==4.66.4
