@@ -2,7 +2,8 @@
 
 Proyek ini merupakan implementasi Sistem Temu Kembali Informasi (Information Retrieval System) menggunakan bahasa Python, yang mencakup Boolean Retrieval Model dan Vector Space Model (VSM) dengan evaluasi metrik IR standar (Precision, Recall, F1, MAP, dan nDCG).
 
-📚 Struktur Folder:
+📂 **Struktur Folder:**
+```plaintext
 stki-uts/
 ├── app/
 │   └── main.py
